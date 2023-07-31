@@ -1,0 +1,19 @@
+création Jeu SdA (Quizz citations)
+différents niveaux de difficulté (selon le film)
+vérification en vidéo de la réponse
+système de compte pour afficher les précédents résultats
+rajouter une discussion (chat) pour faire échanger les membres entre eux / partager les scores
+connexion / inscription
+
+puzzle en plus?
+r/place?
+
+fait en : Java, JavaScript, SQL
+
+
+
+pour oral : présenter un diagramme d'activité, de préférence original (pas création de compte, pas connexion,...)
+
+https://docs.google.com/document/d/15yeJpb6s8Z1dkFCnOETLJOnJlpRtPMN2UDFGaQYpROA/edit?usp=sharing
+
+https://www.gloomaps.com/TYd2TCVDk7
