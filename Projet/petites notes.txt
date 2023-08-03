@@ -2,11 +2,9 @@ création Jeu SdA (Quizz citations)
 différents niveaux de difficulté (selon le film)
 vérification en vidéo de la réponse
 système de compte pour afficher les précédents résultats
-rajouter une discussion (chat) pour faire échanger les membres entre eux / partager les scores
+pixel à poser comme r/place
 connexion / inscription
 
-puzzle en plus?
-r/place?
 
 fait en : Java, JavaScript, SQL
 

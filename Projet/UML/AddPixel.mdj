@@ -110,6 +110,9 @@
 								},
 								{
 									"$ref": "AAAAAAGJBw5464joD4c="
+								},
+								{
+									"$ref": "AAAAAAGJBxGHIIl+0JI="
 								}
 							],
 							"font": "Arial;13;0",
@@ -2313,7 +2316,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -32,
-											"top": -80,
+											"top": -64,
 											"height": 13
 										},
 										{
@@ -2324,7 +2327,7 @@
 											},
 											"font": "Arial;13;1",
 											"left": 933,
-											"top": 599,
+											"top": 607,
 											"width": 127,
 											"height": 39,
 											"text": "Afficher message enregistrement impossible",
@@ -2339,7 +2342,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -32,
-											"top": -80,
+											"top": -64,
 											"width": 130.7490234375,
 											"height": 13,
 											"text": "(from ActivityAddPixel)"
@@ -2353,14 +2356,14 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -32,
-											"top": -80,
+											"top": -64,
 											"horizontalAlignment": 1,
 											"wordWrap": true
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 928,
-									"top": 592,
+									"top": 600,
 									"width": 137,
 									"height": 51,
 									"stereotypeLabel": {
@@ -2380,29 +2383,13 @@
 							"font": "Arial;13;0",
 							"containerChangeable": true,
 							"left": 928,
-							"top": 592,
+							"top": 600,
 							"width": 137,
 							"height": 67,
 							"nameCompartment": {
 								"$ref": "AAAAAAGJBxB004lYOjs="
 							},
 							"wordWrap": true
-						},
-						{
-							"_type": "UMLControlNodeView",
-							"_id": "AAAAAAGJBxGHIIl+0JI=",
-							"_parent": {
-								"$ref": "AAAAAAGJBkSF/m3Q7jw="
-							},
-							"model": {
-								"$ref": "AAAAAAGJBxGHH4l8oT8="
-							},
-							"font": "Arial;13;0",
-							"containerChangeable": true,
-							"left": 984,
-							"top": 680,
-							"width": 26,
-							"height": 26
 						},
 						{
 							"_type": "UMLActionView",
@@ -2855,7 +2842,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1010,
-									"top": 662,
+									"top": 678,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2876,7 +2863,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 1025,
-									"top": 662,
+									"top": 678,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -2897,7 +2884,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 981,
-									"top": 663,
+									"top": 679,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2915,7 +2902,7 @@
 								"$ref": "AAAAAAGJBxB004lXWeE="
 							},
 							"lineStyle": 1,
-							"points": "996:659;996:679",
+							"points": "996:667;996:703",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGJBxM8OYn17ts="
@@ -3437,8 +3424,8 @@
 									},
 									"fontColor": "#ff0000",
 									"font": "Arial;13;0",
-									"left": 887,
-									"top": 560,
+									"left": 890,
+									"top": 563,
 									"width": 36.1181640625,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3460,8 +3447,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 911,
-									"top": 546,
+									"left": 915,
+									"top": 550,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -3481,8 +3468,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 892,
-									"top": 587,
+									"left": 893,
+									"top": 590,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -3501,7 +3488,7 @@
 								"$ref": "AAAAAAGJBxORZIpkvb8="
 							},
 							"lineStyle": 1,
-							"points": "871:567;927:593",
+							"points": "871:567;931:599",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGJBxO6CYp7vYM="
@@ -4150,6 +4137,25 @@
 							"nameCompartment": {
 								"$ref": "AAAAAAGJBw7WJ4kU3vQ="
 							}
+						},
+						{
+							"_type": "UMLControlNodeView",
+							"_id": "AAAAAAGJBxGHIIl+0JI=",
+							"_parent": {
+								"$ref": "AAAAAAGJBkSF/m3Q7jw="
+							},
+							"model": {
+								"$ref": "AAAAAAGJBxGHH4l8oT8="
+							},
+							"containerView": {
+								"$ref": "AAAAAAGJBlm6tG3gO+c="
+							},
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 984,
+							"top": 704,
+							"width": 26,
+							"height": 26
 						}
 					]
 				}
@@ -4196,14 +4202,6 @@
 					},
 					"name": "Afficher message enregistrement impossible",
 					"kind": "sendSignal"
-				},
-				{
-					"_type": "UMLFlowFinalNode",
-					"_id": "AAAAAAGJBxGHH4l8oT8=",
-					"_parent": {
-						"$ref": "AAAAAAGJBkSF/m3PanA="
-					},
-					"name": "FlowFinalNode2"
 				},
 				{
 					"_type": "UMLFlowFinalNode",
@@ -4683,6 +4681,14 @@
 								"$ref": "AAAAAAGJBlm6tG3exxc="
 							},
 							"name": "Envoyer la requête"
+						},
+						{
+							"_type": "UMLFlowFinalNode",
+							"_id": "AAAAAAGJBxGHH4l8oT8=",
+							"_parent": {
+								"$ref": "AAAAAAGJBlm6tG3exxc="
+							},
+							"name": "FlowFinalNode2"
 						}
 					]
 				},
