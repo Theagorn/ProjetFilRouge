@@ -10,8 +10,8 @@ fait en : Java, JavaScript, SQL
 
 
 
-pour oral : présenter un diagramme d'activité, de préférence original (pas création de compte, pas connexion,...)
+- pour oral : présenter un diagramme d'activité, de préférence original (pas création de compte, pas connexion,...)
 
-https://docs.google.com/document/d/15yeJpb6s8Z1dkFCnOETLJOnJlpRtPMN2UDFGaQYpROA/edit?usp=sharing
+exemple CDC Zahra : https://docs.google.com/document/d/15yeJpb6s8Z1dkFCnOETLJOnJlpRtPMN2UDFGaQYpROA/edit?usp=sharing
 
-https://www.gloomaps.com/TYd2TCVDk7
+arborescence : https://www.gloomaps.com/TYd2TCVDk7
