@@ -8,6 +8,8 @@ connexion / inscription
 
 fait en : Java, JavaScript, SQL
 
+créer un petit site vitrine pour présenter l'application
+
 
 
 - pour oral : présenter un diagramme d'activité, de préférence original (pas création de compte, pas connexion,...)
