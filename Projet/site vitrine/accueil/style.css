@@ -56,7 +56,7 @@ nav a:hover {
 
 .content::before {
     content: "";
-    background-image: url('annexes/background.jpg'); /* Chemin relatif vers votre image de fond */
+    background-image: url('../annexes/background.jpg');
     background-size: cover;
     background-position: center;
     position: fixed;

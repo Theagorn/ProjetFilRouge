@@ -1,0 +1,98 @@
+/* Réinitialisation des marges et des espacements par défaut */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style de l'en-tête */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+header img {
+    width: 50px;
+    margin-right: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-right: 30px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    color: #fff;
+}
+
+/* Style de la section de contenu */
+.content {
+    padding: 40px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.content::before {
+    content: "";
+    background-image: url('../annexes/background.jpg');
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5; /* Réglage de l'opacité à 50% */
+    z-index: -1; /* Met l'image en arrière-plan */
+}
+
+#retourHaut {
+    display: none;
+    position: fixed;
+    bottom: 55px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: 1px white solid;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Style du pied de page */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Empêcher le défilement horizontal */
+body {
+    overflow-x: hidden;
+}
