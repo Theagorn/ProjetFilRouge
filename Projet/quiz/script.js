@@ -937,33 +937,49 @@ const questions = [
 
 ];
 
+// Déclaration d'un tableau vide pour les questions actives
 let questionsActives = [];
 
+// Récupération d'éléments du DOM et stockage dans des variables
 const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
 const answerText = document.getElementById("answer-text");
+const titreQuiz = document.getElementById("quiz-title");
 
-let currentQuestionIndex = 0;
-let score = 0;
-let totalQuestions = 0;
-let selectedDifficulty = Number(localStorage.getItem("selectedDifficulty"));
-console.log(selectedDifficulty);
+// Initialisation de variables
+let currentQuestionIndex = 0; // Indice de la question actuelle
+let score = 0; // Score actuel de l'utilisateur
+let totalQuestions = 0; // Nombre total de questions dans le quiz
+let selectedDifficulty = Number(localStorage.getItem("selectedDifficulty")); // Récupération de la difficulté sélectionnée depuis le stockage local
 
-
+// Fonction pour démarrer le quiz
 function startQuiz(){
+    // Réinitialisation des variables
     questionsActives = [];
     currentQuestionIndex = 0;
     score = 0;
     nextButton.innerHTML = "Next";
+
+    // Détermination du nombre total de questions en fonction de la difficulté sélectionnée et modification de l'affichage du gros titre du quiz
     if(selectedDifficulty == 2){
         totalQuestions = 20;
+        titreQuiz.innerHTML = "Normal - Univers étendu";
     } else if(selectedDifficulty == 3){
         totalQuestions = 30;
+        titreQuiz.innerHTML = "Normal - Univers étendu (avec chronomètre)";
     } else{
         totalQuestions = 10;
+        if(selectedDifficulty == 1.1){
+            titreQuiz.innerHTML = "Facile - La Communauté de l'Anneau";
+        }else if(selectedDifficulty == 1.2){
+            titreQuiz.innerHTML = "Facile - Les Deux Tours";
+        }else if(selectedDifficulty == 1.3){
+            titreQuiz.innerHTML = "Facile - Le Retour du Roi";
+        }
     }
 
+    // Filtrage des questions en fonction de la difficulté sélectionnée
     questions.forEach(question => {
         if (question.difficulty === selectedDifficulty) {
             questionsActives.push(question);
@@ -972,17 +988,24 @@ function startQuiz(){
         }
     });
 
+    // Mélange aléatoire des questions actives
     questionsActives = shuffleArray(questionsActives);
+
+    // Affichage de la première question
     showQuestion();
 }
 
+// Fonction pour afficher une question
 function showQuestion(){
+    // Réinitialisation de l'état
     resetState();
+
+    // Récupération de la question actuelle
     let currentQuestion = questionsActives[currentQuestionIndex];
     let questionNo = currentQuestionIndex + 1;
     questionElement.innerHTML = `${questionNo}/${totalQuestions}. ${currentQuestion.question}`;
 
-
+    // Affichage des réponses possibles sous forme de boutons
     currentQuestion.answers.forEach(answer => {
         const button = document.createElement("button");
         button.innerHTML = answer.text;
@@ -995,70 +1018,95 @@ function showQuestion(){
     });
 }
 
+// Fonction pour réinitialiser l'état de l'interface
 function resetState(){
+    // Masquage du bouton "Next" et du texte de réponse
     nextButton.style.display = "none";
     answerText.style.display = "none";
+
+    // Suppression de tous les boutons de réponse précédents
     while(answerButtons.firstChild){
         answerButtons.removeChild(answerButtons.firstChild);
     }
 }
 
+// Fonction pour gérer la sélection d'une réponse
 function selectAnswer(e){
     const selectedBtn = e.target;
     const isCorrect = selectedBtn.dataset.correct == "true";
+
+    // Ajout de classes CSS en fonction de la réponse sélectionnée
     if(isCorrect){
         selectedBtn.classList.add("correct");
         score++;
     } else {
         selectedBtn.classList.add("incorrect");
     }
+
+    // Désactivation de tous les boutons de réponse
     Array.from(answerButtons.children).forEach(button => {
         if(button.dataset.correct === "true"){
             button.classList.add("correct");
         }
         button.disabled = true;
     });
+
+    // Affichage du bouton "Next" et du texte de la réponse
     nextButton.style.display = "block";
-    let currentAnswer = questions[currentQuestionIndex];
+    let currentAnswer = questionsActives[currentQuestionIndex];
     answerText.innerHTML = currentAnswer.trueAnswer;
     answerText.style.display = "block";
 }
 
+// Fonction pour afficher le score final
 function showScore(){
+    // Réinitialisation de l'état
     resetState();
+
+    // Affichage du score final
     questionElement.innerHTML = `Votre score est de ${score} bonnes réponses sur ${totalQuestions}!`;
 
+    // Création d'un bouton pour changer de difficulté
     const changeDifficultyButton = document.createElement("button");
     changeDifficultyButton.innerHTML = "Changer de difficulté";
     changeDifficultyButton.id = "change-difficulty-btn"; // Ajout de l'ID "change-difficulty-btn"
     answerButtons.appendChild(changeDifficultyButton); // Ajout du bouton au conteneur d'éléments de réponse
     changeDifficultyButton.addEventListener("click", changeDifficulty);
 
+    // Configuration du bouton "Next" pour recommencer le quiz
     nextButton.innerHTML = "Play Again";
     nextButton.style.display = "block";
 }
 
+// Fonction pour changer de difficulté
 function changeDifficulty() {
+    // Redirection de l'utilisateur vers une autre page pour changer la difficulté
     window.location.href = "quizDificulty.html";
 }
 
+// Fonction pour gérer le bouton "Next"
 function handleNextButton(){
+    // Incrémentation de l'indice de la question actuelle
     currentQuestionIndex++;
+
+    // Vérification s'il reste des questions à afficher ou si le quiz est terminé
     if(currentQuestionIndex < totalQuestions){
-        showQuestion();
+        showQuestion(); // Afficher la question suivante
     }else{
-        showScore();
+        showScore(); // Afficher le score final
     }
 }
 
+// Ajout d'un gestionnaire d'événements pour le bouton "Next"
 nextButton.addEventListener("click", ()=>{
     if(currentQuestionIndex < totalQuestions){
-        handleNextButton();
+        handleNextButton(); // Gestion du bouton "Next" en fonction du contexte
     }else{
-        startQuiz();
+        startQuiz(); // Redémarrage du quiz si toutes les questions ont été répondues
     }
 })
 
+// Fonction pour mélanger les éléments d'un tableau de manière aléatoire
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -1067,4 +1115,5 @@ function shuffleArray(array) {
     return array;
 }
 
+// Démarrage du quiz au chargement de la page
 startQuiz();
