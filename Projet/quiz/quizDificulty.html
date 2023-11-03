@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choix de la difficulté</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class = "app">
+        <h1>Choisissez la difficulté du quiz :</h1>
+        <div class = "quiz">
+            <h2 id = "question"></h2>
+            <div id = "answer-buttons">
+                <button onclick="saveDifficulty(1.1)" class = "btn-diff">Facile (10 Questions sur les films de Peter Jackson : La Communauté de l'Anneau)</button>
+                <button onclick="saveDifficulty(1.2)" class = "btn-diff">Facile (10 Questions sur les films de Peter Jackson) : Les Deux Tours</button>
+                <button onclick="saveDifficulty(1.3)" class = "btn-diff">Facile (10 Questions sur les films de Peter Jackson) : Le Retour du Roi</button>
+                <button onclick="saveDifficulty(2)" class = "btn-diff">Moyen (20 Questions sur l'univers entier)</button>
+                <button onclick="saveDifficulty(3)" class = "btn-diff">Difficile (30 Questions sur l'univers entier avec chronomètre de 20s par question)</button>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function saveDifficulty(difficulty) {
+            localStorage.setItem("selectedDifficulty", difficulty);
+            window.location.href = "quiz.html"; // Redirection vers la page du quiz
+        }
+    </script>
+</body>
+</html>
