@@ -961,7 +961,7 @@ function startQuiz(){
     score = 0;
     nextButton.innerHTML = "Next";
 
-    // Détermination du nombre total de questions en fonction de la difficulté sélectionnée et modification de l'affichage du gros titre du quiz
+    // Détermination du nombre total de questions et de l'affichage du gros titre du quiz en fonction de la difficulté sélectionnée 
     if(selectedDifficulty == 2){
         totalQuestions = 20;
         titreQuiz.innerHTML = "Normal - Univers étendu";
