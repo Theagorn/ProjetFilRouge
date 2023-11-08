@@ -525,9 +525,9 @@ const questions = [
         ]
     },
     {
-        question: "Comment s'appelle la principale ville du Gondor lors du film ?",
+        question: "Dans le film, comment s'appelle la principale ville du Gondor ?",
         difficulty: 1.3,
-        trueAnswer: "L'ancienne capitale est Osgiliath, mais étant en ruine car perdue et prise à de nombreuses reprises, c'est aujourd'hui Minas Tirith la capitale",
+        trueAnswer: "L'ancienne capitale était Osgiliath, mais étant en ruine car perdue et prise à de nombreuses reprises, c'est aujourd'hui Minas Tirith la capitale",
         answers:[
             { text: "Minas Morgul", correct: false},
             { text: "Minas Ithil", correct: false},
@@ -593,7 +593,7 @@ const questions = [
     {
         question: "Pourquoi Aragorn, Gimli et Legolas quittent l'armée du Rohan à Dunharrow et empruntent le chemin des Morts ?",
         difficulty: 1.3,
-        trueAnswer: "Elrond rejoint Aragorn à Dunharrow pour lui donner l’épée reforgée de son ancêtre avant de lui dire qu’avec elle il avait le pouvoir d’ordonner aux morts parjures d’honorer leur serment d’antant de se battre au côté des Hommes contre les forces de Sauron",
+        trueAnswer: "Elrond rejoint Aragorn à Dunharrow pour lui donner l’épée reforgée de son ancêtre avant de lui dire qu’avec elle il avait le pouvoir d’ordonner aux morts parjures d’honorer leur serment d’antan de se battre au côté des Hommes contre les forces de Sauron",
         answers:[
             { text: "Parce qu’ils ont peur de la guerre", correct: false},
             { text: "Pour aller chercher Merry et Pippin", correct: false},
@@ -628,10 +628,10 @@ const questions = [
         difficulty: 1.3,
         trueAnswer: "Il s’agit du Roi Sorcier d’Angmar, le Nazgul le plus puissant ainsi que leur chef",
         answers:[
-            { text: "Gothmog", correct: true},
+            { text: "Gothmog", correct: false},
             { text: "Shelob", correct: false},
             { text: "Saroumane", correct: false},
-            { text: "Le Roi Sorcier d'Angmar", correct: false},
+            { text: "Le Roi Sorcier d'Angmar", correct: true},
         ]
     },
     {
@@ -670,7 +670,7 @@ const questions = [
     {
         question: "Qui se cache dans le passage de Cirith Ungol et attaque Frodon ?",
         difficulty: 1.3,
-        trueAnswer: "Il s’agit de Shelob, que même Sauron en personne craint car elle est la descendante d’Ungoliant, une araignée encore plus monstrueuse qui s’en est prit à Morgoth lui-même (le maître des Ténèbres dont Sauron était le lieutenant) qui n’a eu d’autres choix que d’appeler ses armées pour pouvoir se sauver",
+        trueAnswer: "Il s’agit de Shelob, que même Sauron en personne craint car elle est la descendante d’Ungoliant, une araignée encore plus monstrueuse qui s’en est pris à Morgoth lui-même (le maître des Ténèbres dont Sauron était le lieutenant) qui n’a eu d’autres choix que d’appeler ses armées pour pouvoir se sauver",
         answers:[
             { text: "Shelob l'araignée géante", correct: true},
             { text: "Gollum", correct: false},
@@ -722,7 +722,359 @@ const questions = [
             { text: "Tharkûn", correct: false},
             { text: "Mithrandir", correct: true},
             { text: "Manwë", correct: false},
-            { text: "Manwë", correct: false},
+            { text: "Elessar", correct: false},
+        ]
+    },
+    {
+        question: "Quel est le nom elfique d’Aragorn ?",
+        difficulty: 2,
+        trueAnswer: "On le surnomme Elessar, \"la Pierre Elfique\", qui est le nom de la pierre verte qu’il porte, offerte par Galadriel. Elle fait référence à une première Elessar (pierre elfique) forgée au Premier âge, dotée d’un grand pouvoir de régénération et emportée par Eärendil",
+        answers:[
+            { text: "Mithrandir", correct: false},
+            { text: "Lindir", correct: false},
+            { text: "Elessar", correct: true},
+            { text: "Glorfindel", correct: false},
+        ]
+    },
+    {
+        question: "Qui est le père de Sam ?",
+        difficulty: 2,
+        trueAnswer: "Il s’agit de l’Ancien, qui était également jardinier de Bilbon avant Sam.",
+        answers:[
+            { text: "Le père Magotte", correct: false},
+            { text: "Bilbon", correct: false},
+            { text: "Taureau rugissant", correct: false},
+            { text: "L'Ancien", correct: true},
+        ]
+    },
+    {
+        question: "Quel est l’un des talents des Hobbits ?",
+        difficulty: 2,
+        trueAnswer: "Afin de protéger leurs cultures des oiseaux comme les corbeaux, les Hobbits ont développé leur adresse au lancer de cailloux pour faire fuir les nuisibles.",
+        answers:[
+            { text: "Ils sont très adroits au lancer de cailloux", correct: true},
+            { text: "Ils savent bien raconter les histoires", correct: false},
+            { text: "Ils sont d’excellents musiciens", correct: false},
+            { text: "Ils ont l’ouïe fine", correct: false},
+        ]
+    },
+    {
+        question: "Quelle est la différence entre un orque et un gobelin ?",
+        difficulty: 2,
+        trueAnswer: "Dans d’autres œuvres, ou même dans les films ils sont différents, mais dans l’univers créé par Tolkien, il s’agit juste d’une différence de sémantique. En effet, l’histoire de la guerre de l’Anneau étant recueillie dans un livre écrit par un Hobbit (Frodon en l’occurence), les ennemis qui sont identifiés comme des Orques par Frodon, sont appelés Gobelins en langue commune (de la même manière que les Nains les nomment rakhâs ou que les Elfes les nomment urug ou orco)",
+        answers:[
+            { text: "L'un vit en caverne et l'autre à la surface", correct: false},
+            { text: "L'un à les oreilles pointues et l'autre non", correct: false},
+            { text: "L'un est plus grand que l'autre", correct: false},
+            { text: "Aucune, orque signifiant gobelin dans la langue des Hobbits", correct: true},
+        ]
+    },
+    {
+        question: "Comment les orques sont-ils apparus ?",
+        difficulty: 2,
+        trueAnswer: "Melkor, le vala maléfique, enleva des Elfes au bord du lac Cuiviénen où ces derniers s'éveillèrent. Il les a ensuite torturés et mutilés jusqu'à ce que les Elfes soient totalement déformés, physiquement comme psychologiquement, devenant ainsi les premiers orques",
+        answers:[
+            { text: "Comme les autres créatures apparues sur Arda", correct: false},
+            { text: "Créés de toute pièce par Melkor le vala maléfique", correct: false},
+            { text: "Ils étaient des Elfes autrefois, enlevés, torturés et mutilés", correct: true},
+            { text: "Sauron les a façonnés en Mordor à base de plomb et de fer", correct: false},
+        ]
+    },
+    {
+        question: "A quoi sert un palantir ?",
+        difficulty: 2,
+        trueAnswer: "Contrairement à ce que l'on peut voir dans la série des \"Anneaux de Pouvoirs\", les palantiri, ou pierres de vision, servent à communiquer à distance. C’est un genre de téléphone ou de face time",
+        answers:[
+            { text: "A communiquer à distance avec un autre palantir", correct: true},
+            { text: "A avoir des visions du futur", correct: false},
+            { text: "A indiquer les faiblesses de son ennemi", correct: false},
+            { text: "A lire dans les pensées de quelqu'un", correct: false},
+        ]
+    },
+    {
+        question: "Combien y a t-il de Grands Anneaux en tout ?",
+        difficulty: 2,
+        trueAnswer: "\"Trois anneaux pour les Rois Elfes sous le ciel,<br>Sept pour les Seigneurs Nains dans leurs demeures de pierre,<br>Neuf pour les Hommes Mortels destinés au trépas,<br>Un pour le Seigneur Ténébreux sur son sombre trône,<br>Au pays de Mordor où s'étendent les Ombres. [...]\"<br>Soit un total de 20 Grands Anneaux",
+        answers:[
+            { text: "1", correct: false},
+            { text: "7", correct: false},
+            { text: "13", correct: false},
+            { text: "20", correct: true},
+        ]
+    },
+    {
+        question: "Complétez le poème de l’anneau : \"Un Anneau pour les gouverner tous, un Anneau pour les trouver, un Anneau pour les amener tous,…\"",
+        difficulty: 2,
+        trueAnswer: "\"Un Anneau pour les gouverner tous, un Anneau pour les trouver, un Anneau pour les amener tous, et dans les ténèbres les lier, au pays de Mordor où s'étendent les Ombres\"",
+        answers:[
+            { text: "Pour ne montrer aucune pitié", correct: false},
+            { text: "Et dans le Mordor les lier", correct: false},
+            { text: "Grâce à cet anneau forgé", correct: false},
+            { text: "Et dans les ténèbres les lier", correct: true},
+        ]
+    },
+    {
+        question: "Quel est le nom elfique de Sylvebarbe ?",
+        difficulty: 2,
+        trueAnswer: "Il s'agit de Fangorn, et étant le chef des Ents, il a donné son nom (elfique) à la forêt dans laquelle il vit",
+        answers:[
+            { text: "Syvebarbe", correct: false},
+            { text: "Fangorn", correct: true},
+            { text: "Calenardhon", correct: false},
+            { text: "Celebrant", correct: false},
+        ]
+    },
+    {
+        question: "Qui est le mari de Galadriel ?",
+        difficulty: 2,
+        trueAnswer: "C'est Celeborn",
+        answers:[
+            { text: "Celeborn", correct: true},
+            { text: "Celebrimbor", correct: false},
+            { text: "Haldir", correct: false},
+            { text: "Lindir", correct: false},
+        ]
+    },
+    {
+        question: "Qui est Arwen pour Galadriel ?",
+        difficulty: 2,
+        trueAnswer: "Celebrían, la fille de Galadriel, a épousé Elrond avec qui elle a eu Arwen et deux autres fils. Arwen est donc la petite fille de Galadriel",
+        answers:[
+            { text: "Sa fille", correct: false},
+            { text: "Sa petite fille", correct: true},
+            { text: "Son arrière petite fille", correct: false},
+            { text: "Sa nièce", correct: false},
+        ]
+    },
+    {
+        question: "Qui est le père de Legolas ?",
+        difficulty: 2,
+        trueAnswer: "C'est Thranduil, seigneur de Felegoth",
+        answers:[
+            { text: "Elwe", correct: false},
+            { text: "Haldir", correct: false},
+            { text: "Fëanor", correct: false},
+            { text: "Thranduil", correct: true},
+        ]
+    },
+    {
+        question: "Qui est le père de Gimli ?",
+        difficulty: 2,
+        trueAnswer: "C'est Gloïn de la maison de Durin",
+        answers:[
+            { text: "Gloïn", correct: true},
+            { text: "Durin", correct: false},
+            { text: "Thorin", correct: false},
+            { text: "Dwalin", correct: false},
+        ]
+    },
+    {
+        question: "Comment se nomme le plus grand fleuve de la Terre du Milieu ?",
+        difficulty: 2,
+        trueAnswer: "Il s’agit du fleuve Anduin, qui longe l’Est des Monts Brumeux, prend sa source loin dans le Nord, au niveau des Ered Mithrin (Montagnes Grises) et qui rejoint la mer dans le Sud du Gondor, dans la baie de Belfalas",
+        answers:[
+            { text: "Le Brandevin", correct: false},
+            { text: "Le Celebrant", correct: false},
+            { text: "L'Anduin", correct: true},
+            { text: "La rivière Lhûn", correct: false},
+        ]
+    },
+    {
+        question: "Comment s’appelle la plus haute montagne des Monts Brumeux ?",
+        difficulty: 2,
+        trueAnswer: "Ces 3 noms désignent la même montagne, le Caradhras étant le noms elfique, le Baraz Imbar celui donné par les Nains et la Corne Rouge étant son appellation en langue commune",
+        answers:[
+            { text: "Caradhras", correct: false},
+            { text: "Baraz Imbar", correct: false},
+            { text: "La Corne Rouge", correct: false},
+            { text: "Les 3 car ces 3 noms désignent la même montagne mais dans des langues différentes", correct: true},
+        ]
+    },
+    {
+        question: "Quelles races faisaient partie de la dernière alliance (flash back du début du 1er film) ?",
+        difficulty: 2,
+        trueAnswer: "Il s’agit bien de la dernière alliance des Hommes et des Elfes, mais les Nains en faisaient également partie",
+        answers:[
+            { text: "Hommes & Elfes", correct: false},
+            { text: "Hommes & Nains", correct: false},
+            { text: "Nains & Elfes", correct: false},
+            { text: "Hommes & Elfes & Nains", correct: true},
+        ]
+    },
+    {
+        question: "Quel âge a Aragorn au moment de la Guerre de l’Anneau ?",
+        difficulty: 2,
+        trueAnswer: "Il a 87ans mais il ne les fait pas car il est le chef du peuple des Dúnedains, qui descendent de celui de Númenor et à qui les Valars ont octroyé une longue vie en remerciement de leur aide aux côtés des Elfes lors des affrontements contre Melkor",
+        answers:[
+            { text: "47 ans", correct: false},
+            { text: "67 ans", correct: false},
+            { text: "87 ans", correct: true},
+            { text: "107 ans", correct: false},
+        ]
+    },
+    {
+        question: "Quelle est la forme de la fumée de pipe de Gandalf lorsque Bilbon et lui font des ronds de fumée ?",
+        difficulty: 2,
+        trueAnswer: "Bilbon fait un rond de fumée, et Gandalf fait un bateau qui passe à l’intérieur",
+        answers:[
+            { text: "Un rond", correct: false},
+            { text: "Un bateau", correct: true},
+            { text: "Un dragon", correct: false},
+            { text: "Un Balrog", correct: false},
+        ]
+    },
+    {
+        question: "Dans les films, où était Sam lorsqu'il surprit la conversation entre Gandalf et Frodon ?",
+        difficulty: 2,
+        trueAnswer: "Il était \"à la coupe de la pelouse, sous la fenêtre\"",
+        answers:[
+            { text: "à la coupe de la pelouse", correct: true},
+            { text: "à la coupe de la fenêtre", correct: false},
+            { text: "à la coupe de la porte", correct: false},
+            { text: "dans un placard", correct: false},
+        ]
+    },
+    {
+        question: "Combien de lapin(s) Gollum chasse t’il pour Frodon et Sam ?",
+        difficulty: 2,
+        trueAnswer: "Il en ramène 2",
+        answers:[
+            { text: "1", correct: false},
+            { text: "2", correct: true},
+            { text: "3", correct: false},
+            { text: "4", correct: false},
+        ]
+    },
+    {
+        question: "Comment s'appelle la porte ouest de la Moria ?",
+        difficulty: 2,
+        trueAnswer: "Elle s’appelle la porte de Durin, construite par le Nain Narvi, maitre forgeron de Khazâd-dûm au Second Âge, avec l’aide de son ami l’Elfe Celebrimbor, qui inscrivit les ornementations et inscriptions en Ithildin (c’est pour cela que les insciptions sont en elfique)",
+        answers:[
+            { text: "La porte Ouest", correct: false},
+            { text: "La porte des Nains", correct: false},
+            { text: "La porte de la Moria", correct: false},
+            { text: "La porte de Durin", correct: true},
+        ]
+    },
+    {
+        question: "Qu’est il écrit au dessus de la porte de Durin ?",
+        difficulty: 2,
+        trueAnswer: "Il est écrit très exactement : « Les Portes de Durin, Seigneur de la Moria. Parlez, ami, et entrez. Moi, Narvi, je l'ai faite. Celebrimbor de Houssaye a gravé ces signes »",
+        answers:[
+            { text: "Parlez, ami, et entrez", correct: true},
+            { text: "Frappez, ami, et entrez", correct: false},
+            { text: "Entrez, ami, et partez", correct: false},
+            { text: "Frappez, ami, et payez", correct: false},
+        ]
+    },
+    {
+        question: "",
+        difficulty: 2,
+        trueAnswer: "",
+        answers:[
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+        ]
+    },
+    {
+        question: "",
+        difficulty: 2,
+        trueAnswer: "",
+        answers:[
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+        ]
+    },
+    {
+        question: "",
+        difficulty: 2,
+        trueAnswer: "",
+        answers:[
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+        ]
+    },
+    {
+        question: "",
+        difficulty: 2,
+        trueAnswer: "",
+        answers:[
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+        ]
+    },
+    {
+        question: "",
+        difficulty: 2,
+        trueAnswer: "",
+        answers:[
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+        ]
+    },
+    {
+        question: "",
+        difficulty: 2,
+        trueAnswer: "",
+        answers:[
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+        ]
+    },
+    {
+        question: "",
+        difficulty: 2,
+        trueAnswer: "",
+        answers:[
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+        ]
+    },
+    {
+        question: "",
+        difficulty: 2,
+        trueAnswer: "",
+        answers:[
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+        ]
+    },
+    {
+        question: "",
+        difficulty: 2,
+        trueAnswer: "",
+        answers:[
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+        ]
+    },
+    {
+        question: "",
+        difficulty: 2,
+        trueAnswer: "",
+        answers:[
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
+            { text: "", correct: false},
         ]
     },
     {
@@ -937,9 +1289,6 @@ const questions = [
 
 ];
 
-// Déclaration d'un tableau vide pour les questions actives
-let questionsActives = [];
-
 // Récupération d'éléments du DOM et stockage dans des variables
 const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-buttons");
@@ -951,6 +1300,7 @@ const titreQuiz = document.getElementById("quiz-title");
 let currentQuestionIndex = 0; // Indice de la question actuelle
 let score = 0; // Score actuel de l'utilisateur
 let totalQuestions = 0; // Nombre total de questions dans le quiz
+let questionsActives = []; // Déclaration d'un tableau vide pour les questions actives
 let selectedDifficulty = Number(localStorage.getItem("selectedDifficulty")); // Récupération de la difficulté sélectionnée depuis le stockage local
 
 // Fonction pour démarrer le quiz
@@ -959,7 +1309,7 @@ function startQuiz(){
     questionsActives = [];
     currentQuestionIndex = 0;
     score = 0;
-    nextButton.innerHTML = "Next";
+    nextButton.innerHTML = "Suivant";
 
     // Détermination du nombre total de questions et de l'affichage du gros titre du quiz en fonction de la difficulté sélectionnée 
     if(selectedDifficulty == 2){
@@ -1073,8 +1423,8 @@ function showScore(){
     answerButtons.appendChild(changeDifficultyButton); // Ajout du bouton au conteneur d'éléments de réponse
     changeDifficultyButton.addEventListener("click", changeDifficulty);
 
-    // Configuration du bouton "Next" pour recommencer le quiz
-    nextButton.innerHTML = "Play Again";
+    // Configuration du bouton "Suivant" pour recommencer le quiz
+    nextButton.innerHTML = "Rejouer";
     nextButton.style.display = "block";
 }
 
@@ -1084,7 +1434,7 @@ function changeDifficulty() {
     window.location.href = "quizDificulty.html";
 }
 
-// Fonction pour gérer le bouton "Next"
+// Fonction pour gérer le bouton "Suivant"
 function handleNextButton(){
     // Incrémentation de l'indice de la question actuelle
     currentQuestionIndex++;
@@ -1097,10 +1447,10 @@ function handleNextButton(){
     }
 }
 
-// Ajout d'un gestionnaire d'événements pour le bouton "Next"
+// Ajout d'un gestionnaire d'événements pour le bouton "Suivant"
 nextButton.addEventListener("click", ()=>{
     if(currentQuestionIndex < totalQuestions){
-        handleNextButton(); // Gestion du bouton "Next" en fonction du contexte
+        handleNextButton(); // Gestion du bouton "Suivant" en fonction du contexte
     }else{
         startQuiz(); // Redémarrage du quiz si toutes les questions ont été répondues
     }

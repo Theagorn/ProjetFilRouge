@@ -108,3 +108,45 @@ body {
 .incorrect {
     background: #ff9393;
 }
+
+
+.difficulty1, .difficulty2, .difficulty3 {
+    color: #070c3d;
+    font-weight: 500;
+    width: 100%;
+    border: 1px solid #070c3d;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-size: 16px;
+}
+
+.difficulty1:hover:not([disabled]){
+    background: #1e8048;
+    color: #faf2d4;
+}
+
+.difficulty2:hover:not([disabled]){
+    background: #a76d23;
+    color: #faf2d4;
+}
+
+.difficulty3:hover:not([disabled]){
+    background: #a12222;
+    color: #faf2d4;
+}
+
+.difficulty1 {
+    background: #9aeabc;
+}
+
+.difficulty2 {
+    background: #ffd093;
+}
+
+.difficulty3 {
+    background: #ff9393;
+}
