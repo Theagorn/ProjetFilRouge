@@ -8,20 +8,35 @@
 </head>
 <body>
     <div class = "app">
-        <h1 id = "quiz-title">Simple Quiz</h1>       
+        <h1 id = "quiz-title"></h1>       
         <div class = "quiz">
-            <h2 id = "question">.</h2>
+            <h2 id = "question"></h2>
             <div id = "answer-buttons">
                 <button class = "btn"></button>
                 <button class = "btn"></button>
                 <button class = "btn"></button>
                 <button class = "btn"></button>
             </div>
-            <button id="next-btn">Next</button><br>
+            <button id="next-btn"></button><br>
             <div id="answer-text"></div>
         </div>
     </div>
     
     <script src="script.js"></script>
+    
+    <!-- <button onclick="getData()">Obtenir des données du serveur</button>
+    
+    <script>
+        // Fonction pour récupérer des données depuis le serveur Express
+        async function getData() {
+            try {
+                const response = await fetch('http://localhost:3000/test-url/someDynamicValue');
+                const data = await response.json();
+                console.log(data); // Utilisez les données reçues comme vous le souhaitez
+            } catch (error) {
+                console.error('Une erreur s\'est produite lors de la récupération des données :', error);
+            }
+        }
+    </script> -->
 </body>
 </html>
