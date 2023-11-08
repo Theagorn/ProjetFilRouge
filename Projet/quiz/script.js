@@ -968,14 +968,14 @@ const questions = [
         ]
     },
     {
-        question: "",
+        question: "Quel est le nom de la Moria en Khuzdul (langue des Nains) ?",
         difficulty: 2,
-        trueAnswer: "",
+        trueAnswer: "Khazâd désigne les Nains et dûm signifie maison, il s’agit donc de Khazâd-dûm (=la maison des Nains)",
         answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
+            { text: "Khuzdul-dûm", correct: false},
+            { text: "Khazâd-dûm", correct: true},
+            { text: "Kheled-dûm", correct: false},
+            { text: "Zirak-dûm", correct: false},
         ]
     },
     {
