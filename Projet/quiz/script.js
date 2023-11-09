@@ -125,7 +125,7 @@ const questions = [
     {
         question: "Selon Gandalf lors du départ de la Communauté, le Mordor est...",
         difficulty: 1.1,
-        trueAnswer: 'Frodon "Le Mordor Gandalf, c\'est à gauche ou à droite ?"<br>Gandalf "A gauche"',
+        trueAnswer: 'Frodon \: "Le Mordor Gandalf, c\'est à gauche ou à droite ?"\nGandalf \: "A gauche"',
         answers:[
             { text: "à droite", correct: false},
             { text: "à gauche", correct: true},
@@ -158,7 +158,7 @@ const questions = [
     {
         question: "Lorsqu'ils sont perdus dans la Moria, que dit Gandalf à Merry pour retrouver leur chemin ?",
         difficulty: 1.1,
-        trueAnswer: 'Gandalf : "Ohhh ! C\'est par ici !" <br>Merry : "Ahh, ça lui revient !" <br>Gandalf : "Pas du tout, mais l\'air est moins nauséabond en bas. Dans le doute, Meriadoc, il faut toujours suivre son flair."',
+        trueAnswer: 'Gandalf : "Ohhh ! C\'est par ici !" \nMerry : "Ahh, ça lui revient !" \nGandalf : "Pas du tout, mais l\'air est moins nauséabond en bas. Dans le doute, Meriadoc, il faut toujours suivre son flair."',
         answers:[
             { text: '"Il faut suivre les araignées"', correct: false},
             { text: '"Il faut suivre les papillons"', correct: false},
@@ -794,7 +794,7 @@ const questions = [
     {
         question: "Combien y a t-il de Grands Anneaux en tout ?",
         difficulty: 2,
-        trueAnswer: "\"Trois anneaux pour les Rois Elfes sous le ciel,<br>Sept pour les Seigneurs Nains dans leurs demeures de pierre,<br>Neuf pour les Hommes Mortels destinés au trépas,<br>Un pour le Seigneur Ténébreux sur son sombre trône,<br>Au pays de Mordor où s'étendent les Ombres. [...]\"<br>Soit un total de 20 Grands Anneaux",
+        trueAnswer: "\"Trois anneaux pour les Rois Elfes sous le ciel,\nSept pour les Seigneurs Nains dans leurs demeures de pierre,\nNeuf pour les Hommes Mortels destinés au trépas,\nUn pour le Seigneur Ténébreux sur son sombre trône,\nAu pays de Mordor où s'étendent les Ombres. [...]\"Soit un total de 20 Grands Anneaux",
         answers:[
             { text: "1", correct: false},
             { text: "7", correct: false},
@@ -1298,23 +1298,23 @@ function startQuiz(){
     questionsActives = [];
     currentQuestionIndex = 0;
     score = 0;
-    nextButton.innerHTML = "Suivant";
+    nextButton.textContent = "Suivant";
 
     // Détermination du nombre total de questions et de l'affichage du gros titre du quiz en fonction de la difficulté sélectionnée 
     if(selectedDifficulty == 2){
         totalQuestions = 20;
-        titreQuiz.innerHTML = "Normal - Univers étendu";
+        titreQuiz.textContent = "Normal - Univers étendu";
     } else if(selectedDifficulty == 3){
         totalQuestions = 30;
-        titreQuiz.innerHTML = "Normal - Univers étendu (avec chronomètre)";
+        titreQuiz.textContent = "Normal - Univers étendu (avec chronomètre)";
     } else{
         totalQuestions = 10;
         if(selectedDifficulty == 1.1){
-            titreQuiz.innerHTML = "Facile - La Communauté de l'Anneau";
+            titreQuiz.textContent = "Facile - La Communauté de l'Anneau";
         }else if(selectedDifficulty == 1.2){
-            titreQuiz.innerHTML = "Facile - Les Deux Tours";
+            titreQuiz.textContent = "Facile - Les Deux Tours";
         }else if(selectedDifficulty == 1.3){
-            titreQuiz.innerHTML = "Facile - Le Retour du Roi";
+            titreQuiz.textContent = "Facile - Le Retour du Roi";
         }
     }
 
@@ -1342,12 +1342,12 @@ function showQuestion(){
     // Récupération de la question actuelle
     let currentQuestion = questionsActives[currentQuestionIndex];
     let questionNo = currentQuestionIndex + 1;
-    questionElement.innerHTML = `${questionNo}/${totalQuestions}. ${currentQuestion.question}`;
+    questionElement.textContent = `${questionNo}/${totalQuestions}. ${currentQuestion.question}`;
 
     // Affichage des réponses possibles sous forme de boutons
     currentQuestion.answers.forEach(answer => {
         const button = document.createElement("button");
-        button.innerHTML = answer.text;
+        button.textContent = answer.text;
         button.classList.add("btn");
         answerButtons.appendChild(button);
         if(answer.correct){
@@ -1393,7 +1393,7 @@ function selectAnswer(e){
     // Affichage du bouton "Next" et du texte de la réponse
     nextButton.style.display = "block";
     let currentAnswer = questionsActives[currentQuestionIndex];
-    answerText.innerHTML = currentAnswer.trueAnswer;
+    answerText.textContent = currentAnswer.trueAnswer;
     answerText.style.display = "block";
 }
 
@@ -1403,17 +1403,17 @@ function showScore(){
     resetState();
 
     // Affichage du score final
-    questionElement.innerHTML = `Votre score est de ${score} bonnes réponses sur ${totalQuestions}!`;
+    questionElement.textContent = `Votre score est de ${score} bonnes réponses sur ${totalQuestions}!`;
 
     // Création d'un bouton pour changer de difficulté
     const changeDifficultyButton = document.createElement("button");
-    changeDifficultyButton.innerHTML = "Changer de difficulté";
+    changeDifficultyButton.textContent = "Changer de difficulté";
     changeDifficultyButton.id = "change-difficulty-btn"; // Ajout de l'ID "change-difficulty-btn"
     answerButtons.appendChild(changeDifficultyButton); // Ajout du bouton au conteneur d'éléments de réponse
     changeDifficultyButton.addEventListener("click", changeDifficulty);
 
     // Configuration du bouton "Suivant" pour recommencer le quiz
-    nextButton.innerHTML = "Rejouer";
+    nextButton.textContent = "Rejouer";
     nextButton.style.display = "block";
 }
 
