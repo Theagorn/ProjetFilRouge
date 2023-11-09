@@ -68,7 +68,7 @@
 									"left": 8,
 									"top": 8,
 									"width": 833,
-									"height": 617,
+									"height": 673,
 									"nameLabel": {
 										"$ref": "AAAAAAGJtT3gbeT5ytA="
 									},
@@ -1646,6 +1646,45 @@
 									"activation": {
 										"$ref": "AAAAAAGJtX9Vw+afw0U="
 									}
+								},
+								{
+									"_type": "UMLNoteView",
+									"_id": "AAAAAAGLs6Nj6GLvX2Q=",
+									"_parent": {
+										"$ref": "AAAAAAGJtT3gbeT3xJA="
+									},
+									"font": "Arial;13;0",
+									"left": 640,
+									"top": 608,
+									"width": 193,
+									"height": 66,
+									"text": "9.1 : BDD introuvable ou indisponible\n9.2 : Afficher message \"Erreur BDD\""
+								},
+								{
+									"_type": "UMLNoteView",
+									"_id": "AAAAAAGLs6VvYGL62rE=",
+									"_parent": {
+										"$ref": "AAAAAAGJtT3gbeT3xJA="
+									},
+									"font": "Arial;13;0",
+									"left": 16,
+									"top": 608,
+									"width": 273,
+									"height": 65,
+									"text": "2.1.1 : Vérifier si l'utilisateur est connecté\n2.1.2 : S'il n'est pas connecté, afficher message d'erreur \"Veuillez vous connecter\""
+								},
+								{
+									"_type": "UMLNoteView",
+									"_id": "AAAAAAGLs6c6WmMEzVk=",
+									"_parent": {
+										"$ref": "AAAAAAGJtT3gbeT3xJA="
+									},
+									"font": "Arial;13;0",
+									"left": 304,
+									"top": 605,
+									"width": 321,
+									"height": 68,
+									"text": "2.2.1 : Vérifier si l'utilisateur dispose d'assez de PixelPoint\n\n2.2.2 : S'il n'en a pas assez, Afficher message erreur \"Vous n'avez pas assez de PixelPoint"
 								}
 							]
 						}
@@ -1856,7 +1895,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGJtT3gbeT1f24="
 					},
-					"name": "Role1"
+					"name": "Role1",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -1864,7 +1904,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGJtT3gbeT1f24="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -1872,7 +1913,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGJtT3gbeT1f24="
 					},
-					"name": "Role3"
+					"name": "Role3",
+					"type": ""
 				}
 			]
 		}

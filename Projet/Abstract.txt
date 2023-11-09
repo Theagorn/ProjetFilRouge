@@ -1,0 +1,5 @@
+My name is Jason SENAC, I'm 22 and I'm going to be presenting my LOTR quiz project, aimed at Tolkien fans and novices alike, to help them discover the subtleties of Middle-earth. 
+
+Initially a computer science student, I've moved on to a less theoretical course and my aim with this project is to create a quiz centred on the 'Lord of the Rings' universe. The quiz offers five distinct levels of difficulty, ranging from three accessible stages for novices to a difficult level for die-hard fans. In addition, a feature allows players to turn their points earned into a pixel art creation, fostering a sense of creativity and achievement within the game environment.
+
+More than just entertainment, the primary aim of this project is to offer players an experience that will enable them to deepen their knowledge of Tolkien's rich universe. Through the questions, the aim is for participants to improve their understanding of the history of Middle-earth.

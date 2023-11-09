@@ -1,5 +1,5 @@
-création Jeu SdA (Quizz citations)
-différents niveaux de difficulté (selon le film)
+* création Jeu SdA (Quizz citations)
+* différents niveaux de difficulté (selon le film)
 vérification en vidéo de la réponse
 système de compte pour afficher les précédents résultats
 pixel à poser comme r/place
@@ -18,4 +18,5 @@ exemple CDC Zahra : https://docs.google.com/document/d/15yeJpb6s8Z1dkFCnOETLJOnJ
 
 arborescence : https://www.gloomaps.com/knsgRsEYfz
 
-projet sur github : https://github.com/Theagorn/ProjetFilRouge/tree/4539a8b9a39331057b332ab34b91018ad4194d91/Projet
+projet sur github : 	https://github.com/Theagorn/ProjetFilRouge/tree/4539a8b9a39331057b332ab34b91018ad4194d91/Projet
+			https://github.com/Theagorn/ProjetFilRouge/tree/main/Projet
