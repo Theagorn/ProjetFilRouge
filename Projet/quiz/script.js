@@ -1275,21 +1275,10 @@ const questions = [
             { text: "", correct: false},
         ]
     },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
 
 ];
 
-// Récupération d'éléments du DOM et stockage dans des variables
+// Récupération d'éléments et stockage dans des variables
 const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
@@ -1299,8 +1288,8 @@ const titreQuiz = document.getElementById("quiz-title");
 // Initialisation de variables
 let currentQuestionIndex = 0; // Indice de la question actuelle
 let score = 0; // Score actuel de l'utilisateur
-let totalQuestions = 0; // Nombre total de questions dans le quiz
-let questionsActives = []; // Déclaration d'un tableau vide pour les questions actives
+let totalQuestions = 0; // Nombre total de questions à faire selon la difficulté
+let questionsActives = []; // Déclaration d'un tableau vide pour les questions qui seront utilisées par l'utilisateur
 let selectedDifficulty = Number(localStorage.getItem("selectedDifficulty")); // Récupération de la difficulté sélectionnée depuis le stockage local
 
 // Fonction pour démarrer le quiz
@@ -1467,3 +1456,4 @@ function shuffleArray(array) {
 
 // Démarrage du quiz au chargement de la page
 startQuiz();
+

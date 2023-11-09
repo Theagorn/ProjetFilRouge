@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Calisto MT';
     box-sizing: border-box;
 }
 
@@ -25,6 +25,7 @@ body {
     border-bottom: 1px solid #070c3d;
     padding-bottom: 20px;
     text-align: center;
+    font-family: "Ringbearer Medium";
 }
 
 .quiz {
