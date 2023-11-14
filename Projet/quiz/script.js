@@ -302,7 +302,7 @@ const questions = [
         ]
     },
     {
-        question: "Comment s'appelle le marais que traverse Frodon, Sam et Gollum ?", //---------------------------------
+        question: "Comment s'appelle le marais que traversent Frodon, Sam et Gollum ?", //---------------------------------
         difficulty: 1.2,
         trueAnswer: "C'est le marais des morts, théâtre d'une des grandes batailles entre La Dernière Alliance des Hommes et des Elfes contre Sauron. Les cadavres qu'on y voit sont d'ailleurs des combattants morts lors de cette bataille",
         answers:[
@@ -403,7 +403,7 @@ const questions = [
     {
         question: "Dans le film, qui vient aider les Hommes du Rohan juste avant la bataille finale ?",
         difficulty: 1.2,
-        trueAnswer: "Ce sont les Elfes de la Lórien, menés par Haldir, venant aider les Hommes à la demande d'Elrond",
+        trueAnswer: "Ce sont les Elfes de la Lórien, menés par Haldir, qui viennent aider les Hommes à la demande d'Elrond",
         answers:[
             { text: "Le Gondor", correct: false},
             { text: "Les Nains", correct: false},
@@ -429,7 +429,7 @@ const questions = [
         answers:[
             { text: "En retard", correct: false},
             { text: "En avance", correct: false},
-            { text: "A l'aube du 5e jour", correct: true},
+            { text: "A l'aube du 5eme jour", correct: true},
             { text: "Après la bataille", correct: false},
         ]
     },
@@ -456,7 +456,7 @@ const questions = [
         ]
     },
     {
-        question: "Qui attaque et conquiert Isengard à la fin du film ?",
+        question: "Quel peuple attaque et conquiert Isengard à la fin du film ?",
         difficulty: 1.2,
         trueAnswer: "Après que Sylvebarbe ait vu la déforestation causée par Saroumane, il rallia tous les Ents pour attaquer Isengard",
         answers:[
@@ -469,7 +469,7 @@ const questions = [
     {
         question: "Complétez cette chanson de Gollum : \"Le lac est beau, fraîche est son eau, c'est délicieux ! C'que nous voulons, ...\" :",
         difficulty: 1.2,
-        trueAnswer: "C'est du poisson qu'il veut ! Il chante ceci après avoir pêché un poisson dans le Lac Interdit",
+        trueAnswer: "C'est du poisson qu'il veut ! Il chante cela après avoir pêché un poisson dans le Lac Interdit",
         answers:[
             { text: "\"Nous les tuerons, mon précieux !\"", correct: false},
             { text: "\"C'est du jambon, c'est délicieux !\"", correct: false},
@@ -562,7 +562,7 @@ const questions = [
         difficulty: 1.3,
         trueAnswer: "Gandalf demande d'abord à Pippin de ne pas mentionner la quête secrète de Frodon, puis de ne pas évoquer la mort de Boromir et ensuite de ne rien dire sur Aragorn... Avant de directement lui demander de ne pas parler du tout finalement",
         answers:[
-            { text: "Qu'il raconte en détails la mort de Boromir", correct: false},
+            { text: "Qu'il raconte en détail la mort de Boromir", correct: false},
             { text: "Qu'il explique la quête secrète de Frodon", correct: false},
             { text: "Qu'il s'engage au service de Denethor", correct: false},
             { text: "Qu'il ne parle pas du tout", correct: true},
@@ -805,7 +805,7 @@ const questions = [
     {
         question: "Complétez le poème de l’anneau : \"Un Anneau pour les gouverner tous, un Anneau pour les trouver, un Anneau pour les amener tous,…\"",
         difficulty: 2,
-        trueAnswer: "\"Un Anneau pour les gouverner tous, un Anneau pour les trouver, un Anneau pour les amener tous, et dans les ténèbres les lier, au pays de Mordor où s'étendent les Ombres\"",
+        trueAnswer: "\"Un Anneau pour les gouverner tous, \nun Anneau pour les trouver, \nun Anneau pour les amener tous, \net dans les ténèbres les lier, \nau pays de Mordor où s'étendent les Ombres\"",
         answers:[
             { text: "Pour ne montrer aucune pitié", correct: false},
             { text: "Et dans le Mordor les lier", correct: false},
@@ -1390,10 +1390,22 @@ function selectAnswer(e){
         button.disabled = true;
     });
 
-    // Affichage du bouton "Next" et du texte de la réponse
+    // Affichage du bouton "Next" et du texte de la réponse en prenant en compte le saut de ligne
     nextButton.style.display = "block";
     let currentAnswer = questionsActives[currentQuestionIndex];
-    answerText.textContent = currentAnswer.trueAnswer;
+
+    answerText.textContent = "";
+    let sautDeLigne = currentAnswer.trueAnswer.split('\n');
+    console.log("1");
+    sautDeLigne.forEach(function (ligne, index) {
+        let textNode = document.createTextNode(ligne);
+        answerText.appendChild(textNode);
+        console.log("2");
+        if (index < sautDeLigne.length - 1) {
+            answerText.appendChild(document.createElement("br"));
+            console.log("3");
+        }
+    })
     answerText.style.display = "block";
 }
 
