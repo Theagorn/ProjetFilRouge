@@ -1,0 +1,17 @@
+Je m'appelle Jason SENAC, j'ai 22 ans et je vais vous présenter mon projet de quiz sur le LOTR, destiné aux fans de Tolkien comme aux novices, afin de pouvoir les aider à découvrir les subtilités de la Terre du Milieu. 
+
+Le but de mon projet est donc de créer un site de quiz sur l'univers du Seigneur des Anneaux, univers très vaste et pionnier dans le thème fantaisy, et de permettre ainsi à tous ceux qui sont passionnés par cet univers d'acroître leurs connaissances, mais aussi de permettre aux novices de découvrir petit à petit l'univers.
+Le quiz propose cinq niveaux de difficulté distincts, allant de trois étapes accessibles pour les novices (une étape par film de Peter Jackson) à un niveau difficile pour les fans inconditionnels (questions sur l'univers étendu avec chronomètre) en passant par un niveau de difficulté moyen possédant également des questions sur l'univers étendu, mais sans chronomètre. Les joueurs gagneront également des points à la fin de chaque quiz selon la difficulté de celui-ci et le nombre de bonnes réponses.
+Ensuite, une fonction permet aux joueurs de transformer leurs points gagnés en une création artistique en pixels, ce qui favorise un sentiment de créativité et d'accomplissement dans l'environnement du jeu, tout en rendant "utile" le fait de faire des quiz, pour avoir comme but de s'instruire et de pouvoir gagner des points.
+Etant grand fan de l'univers, j'ai vu les films de nombreuses fois, la série, certains ouvrages et je peux comprendre que tout ça rebute certains, et je trouvais qu'il manquait un endroit pour pouvoir s'instruire en s'amusant, autre que les jeux vidéos de l'univers.
+A long terme toutes ces fonctionnalités seront ajoutées et la liste des questions disponibles complétée au fur et à mesure, et ensuite je verrai comment les choses évoluent.
+
+
+
+My name is Jason SENAC, I'm 22 years old and I'm going to introduce you to my LOTR quiz project, aimed at Tolkien fans and novices alike, to help them discover the subtleties of Middle-earth. 
+
+The aim of my project is to create a quiz site on the Lord of the Rings universe, which is vast and a pioneer in the fantasy theme, and to enable all those who are passionate about this universe to increase their knowledge, but also to allow novices to discover the universe little by little.
+The quiz offers five distinct levels of difficulty, ranging from three accessible stages for novices (one stage per Peter Jackson film) to a difficult level for die-hard fans (questions on the extended universe with a stopwatch), via a medium difficulty level also featuring questions on the extended universe, but without a stopwatch. Players will also earn points at the end of each quiz, depending on its difficulty and the number of correct answers.
+There's also a function that allows players to turn the points they earn into a pixel art creation, which fosters a sense of creativity and achievement in the game environment, as well as making quizzing a 'useful' way to learn and earn points.
+As a big fan of the universe, I've seen the films many times, the series and some of the books, and I can understand that some people are put off by all that, and I felt that there was a lack of a place to learn while having fun, other than the video games in the universe.
+In the long term, all these features will be added and the list of available questions will be completed as we go along, and then I'll see how things evolve.
