@@ -1,5 +1,9 @@
+// cd "C:\Program Files\MySQL\MySQL Workbench 8.0 CE"
+// net start mysql
+
+// cd .\Projet\quiz\BDD
 //npm run server    OU      node request.js     pour lancer
-//pendant le dev, utiliser npm server-dev
+//pendant le dev, utiliser npm run server-dev
 
 // Importation des modules CORS, de variables d'environnement, framework Express et du fichier functions.js
 const cors = require('cors'); 

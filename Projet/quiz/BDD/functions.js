@@ -16,6 +16,7 @@ const connection = sql.createConnection({
 
 // Tentative de connexion à la base de données
 connection.connect((err) =>{
+    console.log("test");
     if(err){
         console.log(err.message); // Affiche l'erreur si la connexion échoue
     }
