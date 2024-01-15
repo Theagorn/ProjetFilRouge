@@ -978,302 +978,302 @@ const questions = [
             { text: "Zirak-dûm", correct: false},
         ]
     },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
-    {
-        question: "",
-        difficulty: 2,
-        trueAnswer: "",
-        answers:[
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-            { text: "", correct: false},
-        ]
-    },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
+    // {
+    //     question: "",
+    //     difficulty: 2,
+    //     trueAnswer: "",
+    //     answers:[
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //         { text: "", correct: false},
+    //     ]
+    // },
 
 ];

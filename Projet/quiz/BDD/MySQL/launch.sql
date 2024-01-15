@@ -1,0 +1,4 @@
+USE LOTRquiz;
+
+ALTER TABLE utilisateurs
+ADD COLUMN nom VARCHAR(255) NOT NULL;
