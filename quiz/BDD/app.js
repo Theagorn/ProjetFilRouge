@@ -44,7 +44,7 @@ app.post('/connexion', (req, res) => {
     pool.getConnection((err, connection) => {
         if (err) throw err;
 
-        connection.query('SELECT * FROM utilisateurs WHERE email = ? AND mot_de_passe = ?', [email, mot_de_passe], (err, results) => {
+        connection.query('SELECT * FROM utilisateur WHERE email_utilisateur = ? AND mdp_utilisateur = ?', [email, mot_de_passe], (err, results) => {
             if (err) throw err;
 
             if (results.length > 0) {
@@ -70,7 +70,7 @@ app.post('/inscription', (req, res) => {
 
     pool.getConnection((err, connection) => {
 
-        connection.query('INSERT INTO utilisateurs (nom, email, mot_de_passe) VALUES (?, ?, ?)', [nom, email, mot_de_passe], (err, results) => {
+        connection.query('INSERT INTO utilisateur (pseudo_utilisateur, email_utilisateur, mdp_utilisateur) VALUES (?, ?, ?)', [nom, email, mot_de_passe], (err, results) => {
             if (err) throw err;
 
             console.log('Inscription réussie');
