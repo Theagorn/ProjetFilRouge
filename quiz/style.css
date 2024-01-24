@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Calisto MT';
+    font-family: 'Calisto MT', sans-serif;
     box-sizing: border-box;
 }
 
@@ -25,7 +25,7 @@ body {
     border-bottom: 1px solid #070c3d;
     padding-bottom: 20px;
     text-align: center;
-    font-family: "Ringbearer Medium";
+    font-family: "Ringbearer Medium", sans-serif;
 }
 
 .quiz {
@@ -125,17 +125,17 @@ body {
     font-size: 16px;
 }
 
-.difficulty1:hover:not([disabled]){
+.difficulty1:hover{
     background: #1e8048;
     color: #faf2d4;
 }
 
-.difficulty2:hover:not([disabled]){
+.difficulty2:hover{
     background: #a76d23;
     color: #faf2d4;
 }
 
-.difficulty3:hover:not([disabled]){
+.difficulty3:hover{
     background: #a12222;
     color: #faf2d4;
 }
@@ -150,4 +150,13 @@ body {
 
 .difficulty3 {
     background: #ff9393;
+}
+
+@media only screen and (max-width: 400px) {
+    .app {
+        width: 350px;
+    }
+    .btn, #question {
+        text-align: center;
+    }
 }
