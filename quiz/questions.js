@@ -979,7 +979,7 @@ const questions = [
         ]
     },
     {
-        question: "Qui a fondé le royaume de Lórien ?",
+        question: "Qui a fondé le royaume de Lórien ?",
         difficulty: 2,
         trueAnswer: "Après la chute de son royaume en Eregion, elle part de l’autre côté des Monts Brumeux avec son mari Celeborn et elle va fonder le royaume de Lórien, notamment grâce à son anneau, Nenya, l’un des 3 anneaux des Elfes.",
         answers:[
@@ -990,7 +990,7 @@ const questions = [
         ]
     },
     {
-        question: "Comment se nomment les montagnes « tranchantes comme des rasoirs » que doit traverser la communauté pour aller au Mordor ?",
+        question: "Comment se nomment les montagnes « tranchantes comme des rasoirs » que doit traverser la communauté pour aller au Mordor ?",
         difficulty: 2,
         trueAnswer: "Il s’agit des Emyn Muil, ou collines de la tristesse, qui se situent entre le fleuve Anduin et le Marais des Morts.",
         answers:[
@@ -1001,9 +1001,9 @@ const questions = [
         ]
     },
     {
-        question: "Qui est Tom Bombadil ?",
+        question: "Qui est Tom Bombadil ?",
         difficulty: 2,
-        trueAnswer: "Il s’agit d’un être mystérieux, toujours joyeux, trapu, avec une barbe brune. Il est plus grand qu’un Nain mais plus petit qu’un Homme et il se présente comme étant « l’Aîné » car il était « ici avant la rivière et les arbres » il « se souvient de la première goutte de pluie et du premier gland. Il traçait des sentiers avant les Grandes Gens et a vu les Petites Gens arriver. Il était ici avant les Rois et les tombeaux et les Esprits des Tertres. Quand les Elfes ont passé dans l’Ouest, Tom était déjà ici, avant que les mers soient fléchies. » — Le Seigneur des Anneaux — Livre I — Chapitre 7.",
+        trueAnswer: "Il s’agit d’un être mystérieux, toujours joyeux, trapu, avec une barbe brune. Il est plus grand qu’un Nain mais plus petit qu’un Homme et il se présente comme étant « l’Aîné » car il était « ici avant la rivière et les arbres » il « se souvient de la première goutte de pluie et du premier gland. Il traçait des sentiers avant les Grandes Gens et a vu les Petites Gens arriver. Il était ici avant les Rois et les tombeaux et les Esprits des Tertres. Quand les Elfes ont passé dans l’Ouest, Tom était déjà ici, avant que les mers soient fléchies. » — Le Seigneur des Anneaux — Livre I — Chapitre 7.",
         answers:[
             { text: "un Homme", correct: false},
             { text: "un Nain", correct: false},
@@ -1012,9 +1012,9 @@ const questions = [
         ]
     },
     {
-        question: "Comment s’appelle la femme de Tom Bombadil ?",
+        question: "Comment s’appelle la femme de Tom Bombadil ?",
         difficulty: 2,
-        trueAnswer: "Comment s’appelle la femme de Tom Bombadil ?",
+        trueAnswer: "Comment s’appelle la femme de Tom Bombadil ?",
         answers:[
             { text: "Baie d'Or", correct: true},
             { text: "Rosée d'Or", correct: false},
@@ -1025,7 +1025,7 @@ const questions = [
     {
         question: "Que se passe t-il quand Frodon met l’Anneau devant Tom Bombadil ?",
         difficulty: 2,
-        trueAnswer: "« et il passa l’Anneau à son doigt. Merry se retourna pour lui dire quelque chose et il sauta en réprimant une exclamation. Frodon fut ravi (en un sens) : c’était bien son propre anneau, car son ami contemplait, déconcerté, son fauteuil et ne le voyait manifestement pas. Il se leva et se glissa furtivement du coin du feu à la porte extérieure. Hé là ! Cria Tom, lui lançant un regard de ses yeux brillants qui semblaient parfaitement le voir. Hé ! Venez ici, Frodon, là-bas ! Où allez-vous donc ? Le vieux Tom Bombadil n’est pas encore aveugle à ce point. Otez votre anneau d’or ! Votre main est plus belle sans lui. Revenez! Abandonnez votre jeu et asseyez-vous à côté de moi ! — Le Seigneur des Anneaux — Livre I — Chapitre 7.",
+        trueAnswer: "« et il passa l’Anneau à son doigt. Merry se retourna pour lui dire quelque chose et il sauta en réprimant une exclamation. Frodon fut ravi (en un sens) : c’était bien son propre anneau, car son ami contemplait, déconcerté, son fauteuil et ne le voyait manifestement pas. Il se leva et se glissa furtivement du coin du feu à la porte extérieure. Hé là ! Cria Tom, lui lançant un regard de ses yeux brillants qui semblaient parfaitement le voir. Hé ! Venez ici, Frodon, là-bas ! Où allez-vous donc ? Le vieux Tom Bombadil n’est pas encore aveugle à ce point. Otez votre anneau d’or ! Votre main est plus belle sans lui. Revenez! Abandonnez votre jeu et asseyez-vous à côté de moi ! — Le Seigneur des Anneaux — Livre I — Chapitre 7.",
         answers:[
             { text: "Tom essaie de prendre l’Anneau", correct: false},
             { text: "Tom continue à voir Frodon", correct: true},
@@ -1034,9 +1034,9 @@ const questions = [
         ]
     },
     {
-        question: "Que se passe t-il quand Tom Bombadil met l’Anneau ?",
+        question: "Que se passe t-il quand Tom Bombadil met l’Anneau ?",
         difficulty: 2,
-        trueAnswer: "« Puis il passa l’Anneau au bout de son petit doigt et l’éleva vers la lumière de la chandelle. Pendant un moment, les Hobbits ne remarquèrent rien d’étrange. Puis ils eurent le souffle coupé : il n’y avait aucun signe de disparition de Tom ! Tom rit de nouveau, puis il lança l’Anneau en l’air et celui-ci disparut dans un éclair. Frodon poussa un cri et Tom se pencha en avant pour le lui tendre en souriant.» — Le Seigneur des Anneaux — Livre I — Chapitre 7.",
+        trueAnswer: "« Puis il passa l’Anneau au bout de son petit doigt et l’éleva vers la lumière de la chandelle. Pendant un moment, les Hobbits ne remarquèrent rien d’étrange. Puis ils eurent le souffle coupé : il n’y avait aucun signe de disparition de Tom ! Tom rit de nouveau, puis il lança l’Anneau en l’air et celui-ci disparut dans un éclair. Frodon poussa un cri et Tom se pencha en avant pour le lui tendre en souriant.» — Le Seigneur des Anneaux — Livre I — Chapitre 7.",
         answers:[
             { text: "Frodon essaie de le récupérer", correct: false},
             { text: "Tom devient invisible", correct: false},
@@ -1045,7 +1045,7 @@ const questions = [
         ]
     },
     {
-        question: "Dans les livres, qui attaque les quatre Hobbits dans la Vieille Forêt qui borde le Pays de Bouc ?",
+        question: "Dans les livres, qui attaque les quatre Hobbits dans la Vieille Forêt qui borde le Pays de Bouc ?",
         difficulty: 2,
         trueAnswer: "Le Vieil Homme Saul, le Huorn avec le cœur le plus pourri de cette forêt, attrape Merry et Pippin dans ses racines, les coinçant et les étouffant (Huorn= probablement d’anciens Ents très âgés devenus des arbres au cours du temps, de nature agressive et toujours capables de se mouvoir). Ils sont sauvés par Tom Bombadil.",
         answers:[
@@ -1056,9 +1056,9 @@ const questions = [
         ]
     },
     {
-        question: "Sur la route de Fondcombe, qui sauve(nt) Frodon dans les livres et l’amène(nt) jusqu’à Fondcombe ?",
+        question: "Sur la route de Fondcombe, qui sauve(nt) Frodon dans les livres et l’amène(nt) jusqu’à Fondcombe ?",
         difficulty: 2,
-        trueAnswer: "« Soudain apparut en bas un cheval blanc […]. Le manteau du cavalier flottait derrière lui et son capuchon était rejeté en arrière ; ses cheveux dorés volaient, chatoyants, au vent de sa course. […] _Ai na vedui Dunadan ! Mae govannen ! [...] _Voici Glorfindel, qui demeure dans la maison d’Elrond, dit Grand-Pas. _Salut, et bonne rencontre, enfin ! Dit le Seigneur Elfe à Frodon. J’ai été envoyé de Fondcombe à votre recherche. Nous craignions que vous ne fussiez en danger sur la Route. » — Le Seigneur des Anneaux — Livre I — Chapitre 12.",
+        trueAnswer: "« Soudain apparut en bas un cheval blanc […]. Le manteau du cavalier flottait derrière lui et son capuchon était rejeté en arrière ; ses cheveux dorés volaient, chatoyants, au vent de sa course. […] _Ai na vedui Dunadan ! Mae govannen ! [...] _Voici Glorfindel, qui demeure dans la maison d’Elrond, dit Grand-Pas. _Salut, et bonne rencontre, enfin ! Dit le Seigneur Elfe à Frodon. J’ai été envoyé de Fondcombe à votre recherche. Nous craignions que vous ne fussiez en danger sur la Route. » — Le Seigneur des Anneaux — Livre I — Chapitre 12.",
         answers:[
             { text: "Glorfindel", correct: true},
             { text: "Arwen", correct: false},
@@ -1067,9 +1067,9 @@ const questions = [
         ]
     },
     {
-        question: "Dans les livres, qui arrive à la tête des cavaliers rohirrims avec Gandalf à la fin de la bataille du Gouffre de Helm ?",
+        question: "Dans les livres, qui arrive à la tête des cavaliers rohirrims avec Gandalf à la fin de la bataille du Gouffre de Helm ?",
         difficulty: 2,
-        trueAnswer: "« Là, sur une crête, apparut soudain un cavalier vêtu de blanc […]. Derrière lui, dévalant par les longues pentes, venait un millier d’hommes à pied, l’épée à la main. Parmi eux s’avançait un homme, grand et fort. Son bouclier était rouge […], il porta à ses lèvres un grand cor noir et fit retentir une éclatante sonnerie. « Erkenbrand ! Crièrent les cavaliers. Erkenbrand ! » — Le Seigneur des Anneaux — Livre III — Chapitre 7.",
+        trueAnswer: "« Là, sur une crête, apparut soudain un cavalier vêtu de blanc […]. Derrière lui, dévalant par les longues pentes, venait un millier d’hommes à pied, l’épée à la main. Parmi eux s’avançait un homme, grand et fort. Son bouclier était rouge […], il porta à ses lèvres un grand cor noir et fit retentir une éclatante sonnerie. « Erkenbrand ! Crièrent les cavaliers. Erkenbrand ! » — Le Seigneur des Anneaux — Livre III — Chapitre 7.",
         answers:[
             { text: "Eomer", correct: false},
             { text: "Eärnur", correct: false},
@@ -1078,7 +1078,7 @@ const questions = [
         ]
     },
     {
-        question: "Qui était Lùthien, la dame de la chanson que chante Aragorn en montant la garde la nuit, avant les événement du Mont Venteux ?",
+        question: "Qui était Lùthien, la dame de la chanson que chante Aragorn en montant la garde la nuit, avant les événement du Mont Venteux ?",
         difficulty: 2,
         trueAnswer: "Lùthien est la fille de Thingol et de Melian, respectivement le Roi du royaume Elfe de Doriath (le plus important de tout le Beleriand et dans lequel Galadriel a séjourné) et une Maïa (sous divinité rattachée à une divinité plus importante) en charge de soigner les plantes du jardin de Valinor. Thingol étant le frère de Olwë, le grand père maternelle de Galadriel. Lùthien est donc la grande tante de Galadriel; de plus elle est l'arrière grand mère d'Elros, premier roi de Númenor et ancêtre d'Aragorn.",
         answers:[
@@ -1089,7 +1089,7 @@ const questions = [
         ]
     },
     {
-        question: "Qui était Beren, l’époux de Lùthien ?",
+        question: "Qui était Beren, l’époux de Lùthien ?",
         difficulty: 2,
         trueAnswer: "Il s’agit du fils de Barahir, de la maison de Bëor du peuple des Edains (Hommes) alliée des Eldars (Elfes) dans les guerres contre Morgoth.",
         answers:[
@@ -1100,18 +1100,18 @@ const questions = [
         ]
     },
     {
-        question: "Lequel de ces personnages n’a jamais porté l’Anneau ?",
+        question: "Lequel de ces personnages n’a jamais porté l’Anneau ?",
         difficulty: 2,
-        trueAnswer: "Facile, c’est Gandalf ! Dès qu’il s’en approche, il ressent le pouvoir de Sauron et refuse de le toucher par peur d’être corrompu par lui.",
+        trueAnswer: "Facile, c’est Gandalf ! Dès qu’il s’en approche, il ressent le pouvoir de Sauron et refuse de le toucher par peur d’être corrompu par lui.",
         answers:[
-            { text: "Sam", correct: true},
+            { text: "Sam", correct: false},
             { text: "Isildur", correct: false},
-            { text: "Gandalf", correct: false},
+            { text: "Gandalf", correct: true},
             { text: "Sauron", correct: false},
         ]
     },
     {
-        question: "Comment s’appelle la grande région à l’Ouest des Mont Brumeux ?",
+        question: "Comment s’appelle la grande région à l’Ouest des Mont Brumeux ?",
         difficulty: 2,
         trueAnswer: "Par rapport aux Monts Brumeux, le Rhovanion se trouve à l’Est, le Lindon à l’extrême Ouest de la Terre du Milieu et le Rhûn au Sud Est. C’est bien l’Eriador qui se trouve à l’Ouest des Monts Brumeux.",
         answers:[
@@ -1122,7 +1122,7 @@ const questions = [
         ]
     },
     {
-        question: "Qui a aidé Sauron à forger les anneaux des Hommes et des Nains ?",
+        question: "Qui a aidé Sauron à forger les anneaux des Hommes et des Nains ?",
         difficulty: 2,
         trueAnswer: "Il s’agit de Celembrimbor, le petit-fils de Fëanor, qui fut berné par Sauron, travaillant de concert avec lui pour forger ces anneaux de pouvoirs. Heureusement il forgea seul les trois anneaux des Elfes.",
         answers:[
@@ -1133,7 +1133,7 @@ const questions = [
         ]
     },
     {
-        question: "A qui ont été donnés en premier les trois anneaux elfiques ?",
+        question: "A qui ont été donnés en premier les trois anneaux elfiques ?",
         difficulty: 2,
         trueAnswer: "Dans le Silmarillion, il est dit qu’un fut donné à Galadriel et les deux autres à Gil Galad, qui en donna un à Círdan (qui le donnera ensuite à Gandalf à son arrivée en Terre du Milieu), puis qui donna le second à Elrond peu avant sa mort.",
         answers:[
@@ -1144,7 +1144,7 @@ const questions = [
         ]
     },
     {
-        question: "Quel(le) est l’Elfe vivant(e) le/la plus vieux/vieille connu(e) en Terre du Milieu au moment de la Guerre de l’Anneau ?",
+        question: "Quel(le) est l’Elfe vivant(e) le/la plus vieux/vieille connu(e) en Terre du Milieu au moment de la Guerre de l’Anneau ?",
         difficulty: 2,
         trueAnswer: "Il s’agit de Círdan, qui serait le dernier en Terre du Milieu des premiers Elfes à s’être éveillé aux abords du lac Cuiviénen, il y a plus de 7 500ans. A titre de comparaison, il a 300 ans de plus que Galadriel née au Valinor, il aurait environ 900 ans de plus que Gil Galad et plus d’un millénaire d’écart avec Eärendil tout deux nés au Beleriand. ",
         answers:[
@@ -1155,7 +1155,7 @@ const questions = [
         ]
     },
     {
-        question: "Lequel de ces noms ne désigne pas l’un des trois anneaux des Elfes ?",
+        question: "Lequel de ces noms ne désigne pas l’un des trois anneaux des Elfes ?",
         difficulty: 2,
         trueAnswer: "Les trois anneaux des Elfes sont Narya (l’anneau de feu), Nenya (celui de l’eau) et Vilya (l’anneau de l’air).",
         answers:[
@@ -1166,7 +1166,7 @@ const questions = [
         ]
     },
     {
-        question: "Lequel de ces personnages ne porte pas l’un des trois anneaux des elfes au moment de la Guerre de l’Anneau ?",
+        question: "Lequel de ces personnages ne porte pas l’un des trois anneaux des elfes au moment de la Guerre de l’Anneau ?",
         difficulty: 2,
         trueAnswer: "Au moment de la Guerre de l’Anneau, l’anneau de feu est en possession de Gandalf, celui de l’eau est à Fondcombe avec Elrond et l’anneau de l’air est au doigt de Galadriel.",
         answers:[
@@ -1177,7 +1177,7 @@ const questions = [
         ]
     },
     {
-        question: "Quel est le lien entre Aragorn et Arwen au début des évènements de la Guerre de l’Anneau ?",
+        question: "Quel est le lien entre Aragorn et Arwen au début des évènements de la Guerre de l’Anneau ?",
         difficulty: 2,
         trueAnswer: "Aragorn est un descendant de la famille royale de Númenor dont le premier n’était autre que Elros, frère jumeau d’Elrond, qui a choisi une vie de mortel. Par conséquent, Arwen, fille d’Elrond et Aragorn, descendant d’Elros, sont des cousins éloignés (il y a plus d’une quarantaine de générations qui les séparent donc pas de risque de consanguinité!).",
         answers:[
@@ -1188,7 +1188,7 @@ const questions = [
         ]
     },
     {
-        question: "Pourquoi Denethor II est si défaitiste face à la puissance du Mordor ?",
+        question: "Pourquoi Denethor II est si défaitiste face à la puissance du Mordor ?",
         difficulty: 2,
         trueAnswer: "Denethor II a utilisé le palantir de Minas Tirith pour défier Sauron. Ce dernier lui a montré de fausses images de la ruine du Gondor en retour. Ils se sont battus par esprit interposé et Sauron a pris l’avantage petit à petit, vieillissant et altérant le jugement de Denethor II au fur et à mesure.",
         answers:[
@@ -1199,7 +1199,7 @@ const questions = [
         ]
     },
     {
-        question: "Dans les livres, quelle ville est reprise par Aragorn grâce à l’armée des Morts ?",
+        question: "Dans les livres, quelle ville est reprise par Aragorn grâce à l’armée des Morts ?",
         difficulty: 2,
         trueAnswer: "Hors celle de Minas Tirith, le gros des troupes du Gondor se trouve à Pelargir (qui se situe sur l’Anduin) qui est en proie aux attaques des Corsaires d’Umbar. Ensuite Aragorn a délivré les morts de leur serment puis est monté dans les bateaux corsaires avec de nombreuses garnisons de Pelargir afin de remonter le fleuve et venir en aide à Minas Tirith.",
         answers:[
@@ -1210,9 +1210,9 @@ const questions = [
         ]
     },
     {
-        question: "Lors de la bataille du Gouffre de Helm, qu’est-ce qui amène la victoire aux Hommes dans les livres ?",
+        question: "Lors de la bataille du Gouffre de Helm, qu’est-ce qui amène la victoire aux Hommes dans les livres ?",
         difficulty: 2,
-        trueAnswer: "« Les armées d’Isengard rugissaient, oscillant tantôt d’un côté, tantôt de l’autre, ne sachant quelle peur affronter. Le cor sonna de nouveau dans la tour. La compagnie du roi chargea par la brèche du Fossé. Du haut des collines bondit Erkenbrand, seigneur de l’Ouestfolde [...]. Le Cavalier Blanc fondit sur ses adversaires, et la terreur de sa venue les emplit de folie. Les hommes sauvages tombaient à plat ventre devant lui. Les Orques couraient chancelants, poussant des cris aigus, jetant épées et lances. Ils fuirent comme une fumée noire chassée par un vent impétueux. Gémissant, ils passèrent dans l’ombre patiente des arbres ; et de cette ombre, aucun ne devait jamais ressortir. » — Le Seigneur des Anneaux — Livre III — Chapitre 7.",
+        trueAnswer: "« Les armées d’Isengard rugissaient, oscillant tantôt d’un côté, tantôt de l’autre, ne sachant quelle peur affronter. Le cor sonna de nouveau dans la tour. La compagnie du roi chargea par la brèche du Fossé. Du haut des collines bondit Erkenbrand, seigneur de l’Ouestfolde [...]. Le Cavalier Blanc fondit sur ses adversaires, et la terreur de sa venue les emplit de folie. Les hommes sauvages tombaient à plat ventre devant lui. Les Orques couraient chancelants, poussant des cris aigus, jetant épées et lances. Ils fuirent comme une fumée noire chassée par un vent impétueux. Gémissant, ils passèrent dans l’ombre patiente des arbres ; et de cette ombre, aucun ne devait jamais ressortir. » — Le Seigneur des Anneaux — Livre III — Chapitre 7.",
         answers:[
             { text: "la charge des Rohirrim venant de l’Est", correct: false},
             { text: "la forêt qui apparaît mystérieusement au Nord et qui affole les orques", correct: false},
@@ -1223,7 +1223,7 @@ const questions = [
     {
         question: "Combien y a t’il de feux d’alarme dans les livres entre Minas Tirith et Edoras?",
         difficulty: 2,
-        trueAnswer: "Comme le dit Gandalf à Pippin dans Le Seigneur des Anneaux — Livre V — Chapitre 1 : « Vois ! Les feux d’alarme du Gondor s’allument, appelant à l’aide. La guerre embrase le pays. Vois, les flammes montent sur l’Amon Dîn, de même que sur l’Eilenach ; et les voici qui se portent rapidement vers l’ouest : le Nardol, l’Erelas, le Min-Rimmon, le Calenhad, enfin le Halifirien aux frontières du Rohan. »",
+        trueAnswer: "Comme le dit Gandalf à Pippin dans Le Seigneur des Anneaux — Livre V — Chapitre 1 : « Vois ! Les feux d’alarme du Gondor s’allument, appelant à l’aide. La guerre embrase le pays. Vois, les flammes montent sur l’Amon Dîn, de même que sur l’Eilenach ; et les voici qui se portent rapidement vers l’ouest : le Nardol, l’Erelas, le Min-Rimmon, le Calenhad, enfin le Halifirien aux frontières du Rohan. »",
         answers:[
             { text: "7", correct: true},
             { text: "10", correct: false},
@@ -1232,7 +1232,7 @@ const questions = [
         ]
     },
     {
-        question: "Dans les livres, comment meurt Théoden ?",
+        question: "Dans les livres, comment meurt Théoden ?",
         difficulty: 2,
         trueAnswer: "Cette fois pas de piège, il meurt comme dans le film, tué par le Roi Sorcier d’Angmar.",
         answers:[
@@ -1243,7 +1243,7 @@ const questions = [
         ]
     },
     {
-        question: "Lequel de ces personnages ne fait pas partie des Maïar (sous divinité) ?",
+        question: "Lequel de ces personnages ne fait pas partie des Maïar (sous divinité) ?",
         difficulty: 2,
         trueAnswer: "Gandalf, ou Olórin de son nom en Valinor, est un des Maïar au service de Manwë, le Vala de l’Air et nommé Roi du Monde des Valar par Ilúvatar. Sauron, connu à ses début comme Mairon l’Admirable, était un Maïa au service d’Aulë, le Vala de la forge (au même titre que Curunir, plus connu comme Saroumane). Il fut ensuit corrompu par Melkor, et devint son plus fidèle et plus puissant lieutenant. Les Balrogs étaient, comme Sauron, des Maïar attirés et corrompus par Melkor. Ils étaient les plus puissants de ses serviteurs, dominés seulement par Sauron lui-même. Leur chef était Gothmog.",
         answers:[
@@ -1254,7 +1254,7 @@ const questions = [
         ]
     },
     {
-        question: "Dans les livres qui dirige la défense de Minas Tirith pendant la bataille des champs du Pelenor ?",
+        question: "Dans les livres qui dirige la défense de Minas Tirith pendant la bataille des champs du Pelenor ?",
         difficulty: 2,
         trueAnswer: "Une fois que Denethor II a fait son saut de l’ange, c’est le Prince Imrahil de Dol Amroth qui dirige les défense de la cité de Minas Tirith.",
         answers:[
@@ -1265,7 +1265,7 @@ const questions = [
         ]
     },
     {
-        question: "D’où partent les bateaux elfes à destination des Terres Immortelles ?",
+        question: "D’où partent les bateaux elfes à destination des Terres Immortelles ?",
         difficulty: 2,
         trueAnswer: "Ils partent du port de Mithlond (en sindarin) ou Havres Gris, qui se situe dans le Lindon, la région la plus à l’Ouest de la Terre du Milieu. Il fut construit par Círdan le Charpentier pour y construire ses navires, les seuls capables de voguer jusqu’aux Terres Immortelles.",
         answers:[
@@ -1276,9 +1276,9 @@ const questions = [
         ]
     },
     {
-        question: "Quel est le nom elfique de Fondcombe ?",
+        question: "Quel est le nom elfique de Fondcombe ?",
         difficulty: 2,
-        trueAnswer: "C’est Imladris, qui signifie « Vallée Cachée », car au départ ce n’était qu’un endroit où Elrond et son armée s’étaient réfugiés pour se cacher de Sauron.",
+        trueAnswer: "C’est Imladris, qui signifie « Vallée Cachée », car au départ ce n’était qu’un endroit où Elrond et son armée s’étaient réfugiés pour se cacher de Sauron.",
         answers:[
             { text: "Imlad Morgul", correct: false},
             { text: "Rivendell", correct: false},
@@ -1287,9 +1287,9 @@ const questions = [
         ]
     },
     {
-        question: "Quel est le nom elfique des Havres Gris ?",
+        question: "Quel est le nom elfique des Havres Gris ?",
         difficulty: 2,
-        trueAnswer: "Il s’agit de Mithlond ; les Ered Mithrin (ou Montagnes Grises) sont une chaîne de montagnes au Nord de la Terre du Milieu (au Nord d’Erebor), Mithrandir est l’un des nombreux noms de Gandalf et Imlad Mithrin est inventé.",
+        trueAnswer: "Il s’agit de Mithlond ; les Ered Mithrin (ou Montagnes Grises) sont une chaîne de montagnes au Nord de la Terre du Milieu (au Nord d’Erebor), Mithrandir est l’un des nombreux noms de Gandalf et Imlad Mithrin est inventé.",
         answers:[
             { text: "Mithlond", correct: true},
             { text: "Ered Mithrin", correct: false},
@@ -1298,9 +1298,9 @@ const questions = [
         ]
     },
     {
-        question: "Parmi ces noms en khuzdul, lequel ne désigne pas l’un des trois pics au-dessus de Khazâd dûm ?",
+        question: "Parmi ces noms en khuzdul, lequel ne désigne pas l’un des trois pics au-dessus de Khazâd dûm ?",
         difficulty: 2,
-        trueAnswer: "Comme le dit Gimli à Frodon :« Là-bas se dressent Barazinbar, Cornerouge, le cruel Caradhras ; et derrière lui, le Pic d’Argent et la Tête Nuageuse : Celebdil le Blanc et Fanuidhol le Gris, que nous appelons Zirakzigil et Bundushathûr. » — Le Seigneur des Anneaux — Livre II — Chapitre 3. Le Kheled-zâram, ou Lac du Miroir, est un lac qui se situe prês de la porte Est, à l’extérieur de la Moria.",
+        trueAnswer: "Comme le dit Gimli à Frodon :« Là-bas se dressent Barazinbar, Cornerouge, le cruel Caradhras ; et derrière lui, le Pic d’Argent et la Tête Nuageuse : Celebdil le Blanc et Fanuidhol le Gris, que nous appelons Zirakzigil et Bundushathûr. » — Le Seigneur des Anneaux — Livre II — Chapitre 3. Le Kheled-zâram, ou Lac du Miroir, est un lac qui se situe prês de la porte Est, à l’extérieur de la Moria.",
         answers:[
             { text: "Barazinbar", correct: false},
             { text: "Kheled-zâram", correct: true},
@@ -1309,7 +1309,7 @@ const questions = [
         ]
     },
     {
-        question: "Lequel de ces thermes ne désigne pas la Moria ?",
+        question: "Lequel de ces thermes ne désigne pas la Moria ?",
         difficulty: 2,
         trueAnswer: "l s’agit respectivement des noms de la Moria en Khuzdûl (langue des Nains), en langue commune et en Sindarin (un des langages elfiques). Belegost (ou Gabilgathol en Khuzdûl) était une autre cité naine, la plus grande du premier âge se trouvant sur les pentes Nord du plus haut sommet des Ered Luin.",
         answers:[
@@ -1320,7 +1320,7 @@ const questions = [
         ]
     },
     {
-        question: "Quel était le dernier Roi du Gondor ?",
+        question: "Quel était le dernier Roi du Gondor ?",
         difficulty: 2,
         trueAnswer: "Le Roi Sorcier d’Angmar envoya un messager en 2050 du Troisième Age à Eärnur, Roi du Gondor, l’invitant à se présenter seul devant Minas Morgul pour le défier. Sans descendance et malgré les contre-indications de Mardil son conseiller et intendant, Eärnur accepta le défi et partit seul à Minas Morgul. Personne ne le revit plus jamais et Mardil fut le premier intendant à gouverner le Gondor et depuis, c’est sa descendance qui hérita des rênes du pouvoir jusqu’à Denethor II, le dernier intendant.",
         answers:[
@@ -1331,7 +1331,7 @@ const questions = [
         ]
     },
     {
-        question: "Quel était le dernier Roi du Grand Royaume de l’Arnor ?",
+        question: "Quel était le dernier Roi du Grand Royaume de l’Arnor ?",
         difficulty: 2,
         trueAnswer: "texte de réponse",
         answers:[
@@ -1342,9 +1342,9 @@ const questions = [
         ]
     },
     {
-        question: "Laquelle de ces montagnes ne se trouve pas dans le Mordor ?",
+        question: "Laquelle de ces montagnes ne se trouve pas dans le Mordor ?",
         difficulty: 2,
-        trueAnswer: "L’Orodruin est le nom elfique de la Montagne du Destin. De même pour les Ered Lithui et les Ephel Dúath, qui sont les Monts Cendrés et les Remparts de l’Ombre, les deux chaînes de montagnes qui encadrent et fortifient le Mordor : l’Ered Lithui au Nord et les Ephel Dúath à l’Ouest et au Sud. Au contraire de Gundabad qui se situe à l’extrémité Nord des Monts Brumeux.",
+        trueAnswer: "L’Orodruin est le nom elfique de la Montagne du Destin. De même pour les Ered Lithui et les Ephel Dúath, qui sont les Monts Cendrés et les Remparts de l’Ombre, les deux chaînes de montagnes qui encadrent et fortifient le Mordor : l’Ered Lithui au Nord et les Ephel Dúath à l’Ouest et au Sud. Au contraire de Gundabad qui se situe à l’extrémité Nord des Monts Brumeux.",
         answers:[
             { text: "Gundabad", correct: true},
             { text: "Orodruin", correct: false},
@@ -1353,7 +1353,7 @@ const questions = [
         ]
     },
     {
-        question: "Qu’est ce qui ne fait pas partie du Mordor ?",
+        question: "Qu’est ce qui ne fait pas partie du Mordor ?",
         difficulty: 2,
         trueAnswer: "La Morannon désigne la Porte Noire du Mordor, la mer de Nurn se situe dans le Sud Est du Mordor tandis que le plateau de Gorgoroth désigne la grand pleine du Mordor où se trouve la Montagne du Destion, ainsi que Barad-Dûr, la grande forteresse de Sauron. L’Angmar est une région du Nord de l’Eriador, collée au versant Ouest des Monts Brumeux dans leur extrémité septentrionale (=au Nord).",
         answers:[
@@ -1364,20 +1364,20 @@ const questions = [
         ]
     },
     {
-        question: "Quel est le cri de guerre des Nains ?",
+        question: "Quel est le cri de guerre des Nains ?",
         difficulty: 2,
-        trueAnswer: "« Mais une silhouette sombre et courte, que personne n’avait remarquée, surgit des ombres avec un cri rauque : Baruk Khazâd ! Khazâd ai-mênu ! Une hache fendit l’air puis revint. Deux Orques tombèrent décapités » — Le Seigneur des Anneaux — Livre III — Chapitre 7. Cela signifie « Les haches des Nains ! Les Nains sont sur vous ! » ",
+        trueAnswer: "« Mais une silhouette sombre et courte, que personne n’avait remarquée, surgit des ombres avec un cri rauque : Baruk Khazâd ! Khazâd ai-mênu ! Une hache fendit l’air puis revint. Deux Orques tombèrent décapités » — Le Seigneur des Anneaux — Livre III — Chapitre 7. Cela signifie « Les haches des Nains ! Les Nains sont sur vous ! » ",
         answers:[
-            { text: "Balin Fundinul Uzbad Khazaddûmu !", correct: false},
-            { text: "Baruk Khazâd ! Khazâd ai-mênu !", correct: true},
-            { text: "Ishkhaqwi ai durugnul !", correct: false},
+            { text: "Balin Fundinul Uzbad Khazaddûmu !", correct: false},
+            { text: "Baruk Khazâd ! Khazâd ai-mênu !", correct: true},
+            { text: "Ishkhaqwi ai durugnul !", correct: false},
             { text: "Uzbad Azaghâl Zirakayabund!", correct: false},
         ]
     },
     {
-        question: "Pourquoi ne voit-on jamais de femmes Nains ?",
+        question: "Pourquoi ne voit-on jamais de femmes Nains ?",
         difficulty: 2,
-        trueAnswer: "« Elles sont, par la voix et l’apparence, et par leur costume lorsqu’elles doivent voyager, si semblables à leurs pendants masculins que les yeux et les oreilles des autres peuples n’arrivent pas à les distinguer. Ceci est à l’origine de l’absurde croyance, fort répandue chez les Hommes, voulant qu’il n’y ait pas de femmes naines, et que les Nains soient « issus de la pierre ». » — Le Seigneur des Anneaux — Appendice A — Le Peuple de Durin. Cela est renforcé par le fait que les femmes naines voyagent peu et qu’elles sont peu nombreuses (moins d’un tiers de la population).",
+        trueAnswer: "« Elles sont, par la voix et l’apparence, et par leur costume lorsqu’elles doivent voyager, si semblables à leurs pendants masculins que les yeux et les oreilles des autres peuples n’arrivent pas à les distinguer. Ceci est à l’origine de l’absurde croyance, fort répandue chez les Hommes, voulant qu’il n’y ait pas de femmes naines, et que les Nains soient « issus de la pierre ». » — Le Seigneur des Anneaux — Appendice A — Le Peuple de Durin. Cela est renforcé par le fait que les femmes naines voyagent peu et qu’elles sont peu nombreuses (moins d’un tiers de la population).",
         answers:[
             { text: "Parce qu’elles sont aussi barbues que les hommes Nains", correct: true},
             { text: "Parce qu’elles sont pacifiques et ne prennent pas part aux combats", correct: false},
@@ -1386,9 +1386,9 @@ const questions = [
         ]
     },
     {
-        question: "D’où vient le mithril ?",
+        question: "D’où vient le mithril ?",
         difficulty: 2,
-        trueAnswer: "Le mithril est un minéral unique, aux propriétés particulières que l’on trouve uniquement dans la Moria (certains gisements furent exploités à Númenor lors du Second Âge). L’extraction du mithril à Khazâd-dûm débuta au début du Second Âge mais le gisement principal devait être déjà connu du temps de Durin Ier Trompe la mort durant les jours Anciens et au Premier Age, soit avant la disparition des Silmarils. Donc l’origine donnée dans la série « Les Anneaux de Pouvoir », en plus d’être farfelue, incohérente et capillotractée est tout bonnement impossible (comme beaucoup de choses dans cette série...).",
+        trueAnswer: "Le mithril est un minéral unique, aux propriétés particulières que l’on trouve uniquement dans la Moria (certains gisements furent exploités à Númenor lors du Second Âge). L’extraction du mithril à Khazâd-dûm débuta au début du Second Âge mais le gisement principal devait être déjà connu du temps de Durin Ier Trompe la mort durant les jours Anciens et au Premier Age, soit avant la disparition des Silmarils. Donc l’origine donnée dans la série « Les Anneaux de Pouvoir », en plus d’être farfelue, incohérente et capillotractée est tout bonnement impossible (comme beaucoup de choses dans cette série...).",
         answers:[
             { text: "C’est un alliage créé par Celebrimbor", correct: false},
             { text: "il s’agit de l’un des Silmarils perdu qui s’est retrouvé dans un arbre au sommet du Caradhras, qui a ensuite été foudroyé pendant qu’un guerrier elfe et un Balrog s’affrontaient", correct: false},
@@ -1397,9 +1397,9 @@ const questions = [
         ]
     },
     {
-        question: "Qui était le premier Roi de Númenor ?",
+        question: "Qui était le premier Roi de Númenor ?",
         difficulty: 2,
-        trueAnswer: "« Au pied de la Montagne se dressaient les tombes des Rois et sur une colline voisine Armenelos, la plus belle des cités, où se trouvaient la forteresse et la tour construites par le fils d'Eärendil, Elros, que les Valar avaient nommé premier Roi des Dúnedain. » — Akallabêth, Le Silmarillion. Elros se trouve être le frère jumeau d’Elrond.",
+        trueAnswer: "« Au pied de la Montagne se dressaient les tombes des Rois et sur une colline voisine Armenelos, la plus belle des cités, où se trouvaient la forteresse et la tour construites par le fils d'Eärendil, Elros, que les Valar avaient nommé premier Roi des Dúnedain. » — Akallabêth, Le Silmarillion. Elros se trouve être le frère jumeau d’Elrond.",
         answers:[
             { text: "Elros", correct: false},
             { text: "le frère d’Elrond", correct: false},
@@ -1408,7 +1408,7 @@ const questions = [
         ]
     },
     {
-        question: "Quelle arme n’apparaît pas dans les livres du Seigneur des Anneaux ?",
+        question: "Quelle arme n’apparaît pas dans les livres du Seigneur des Anneaux ?",
         difficulty: 2,
         trueAnswer: "Glamdring, Narzil et Aeglos sont respectivement l’épée de Gandalf, celle d’Elendil (et de ses descendants) et la lance de Gil Galad, qui apparaissent toutes dans le Seigneurs des Anneaux et leurs Appendices. Au contraire d’Orcrist qui est l’épée de Thorïn dans le Hobbit (qui est trouvée en même temps que Glamdring et Dard. Orcrist (=fendoir à gobelins) était l’épée sœur de Glamdring qui furent toutes les deux forgées à Gondolin pendant le Premier Age. Elle a une dent de dragon comme manche.",
         answers:[
@@ -1419,7 +1419,7 @@ const questions = [
         ]
     },
     {
-        question: "Dans les livres, que prédit Galadriel à Legolas s’il continue la quête de l’Anneau en allant vers le sud ?",
+        question: "Dans les livres, que prédit Galadriel à Legolas s’il continue la quête de l’Anneau en allant vers le sud ?",
         difficulty: 2,
         trueAnswer: "Elle lui dit qu’il y verra la Grande Mer, Belegaer, pour la première fois de sa vie, et qu’à cette vue, il ressentira pour la première fois l’envie irrépressible de partir de la Terre du Milieu pour les Terres Immortelles. Et ce sentiment, comme chez la majorité des Elfes, ne ferait que s’accroître au cours du temps. Il attendra la mort de son ami le roi Elessar (Aragorn) en 120 du 4e Age pour partir en Aman, de l’autre côté de Belegaer, accompagné de Gimli.",
         answers:[
@@ -1430,9 +1430,9 @@ const questions = [
         ]
     },
     {
-        question: "Que fait Gimli avec les cheveux que lui donne Galadriel ?",
+        question: "Que fait Gimli avec les cheveux que lui donne Galadriel ?",
         difficulty: 2,
-        trueAnswer: "« Et si jamais je retrouve les forges de mon pays, il sera monté dans un cristal impérissable pour demeurer un bien de ma maison et un gage de bonne volonté entre la Montagne et la Forêt jusqu’à la fin des temps » — Le Seigneur des Anneaux — Livre II — Chapitre 8.",
+        trueAnswer: "« Et si jamais je retrouve les forges de mon pays, il sera monté dans un cristal impérissable pour demeurer un bien de ma maison et un gage de bonne volonté entre la Montagne et la Forêt jusqu’à la fin des temps » — Le Seigneur des Anneaux — Livre II — Chapitre 8.",
         answers:[
             { text: "proposition 1Il les fait mettre sur un bijou", correct: true},
             { text: "il les perd à la bataille du Gouffre de Helm", correct: false},
@@ -1441,7 +1441,7 @@ const questions = [
         ]
     },
     {
-        question: "Que fait Gimli au début du 4e Âge de la Terre ?",
+        question: "Que fait Gimli au début du 4e Âge de la Terre ?",
         difficulty: 2,
         trueAnswer: "Après les évènements de la Guerre de l’Anneau, Eomer, nouveau roi du Rohan, en remerciement de son aide (il lui a sauvé la vie pendant la bataille du Gouffre) autorise Gimli à faire venir d’autres Nains d’Erebor dans les cavernes étincelantes (dans le Gouffre de Helm) pour s’y installer et fonder sa propre cité.",
         answers:[
@@ -1452,9 +1452,9 @@ const questions = [
         ]
     },
     {
-        question: "Qu’est-ce que la Flèche rouge ?",
+        question: "Qu’est-ce que la Flèche rouge ?",
         difficulty: 2,
-        trueAnswer: "«Il tenait à la main une seule flèche, empennée de noir et barbelée d'acier, mais la pointe en était peinte en rouge. » Le Seigneur des Anneaux - Livre V - Chapitre 3 . Dans ce passage, c’est Hirgon, le messager de Denethor, qui amène la Flèche rouge au roi Théoden afin de quérir son aide pour défendre Minas Tirith, en souvenir du Serment d’Eorl qui promet l'assistance du Rohan au cas où le Gondor le requière.",
+        trueAnswer: "«Il tenait à la main une seule flèche, empennée de noir et barbelée d'acier, mais la pointe en était peinte en rouge. » Le Seigneur des Anneaux - Livre V - Chapitre 3 . Dans ce passage, c’est Hirgon, le messager de Denethor, qui amène la Flèche rouge au roi Théoden afin de quérir son aide pour défendre Minas Tirith, en souvenir du Serment d’Eorl qui promet l'assistance du Rohan au cas où le Gondor le requière.",
         answers:[
             { text: "Le surnom d’une montagne", correct: false},
             { text: "Le nom d’une des tours de garde du Mordor", correct: false},
@@ -1463,7 +1463,7 @@ const questions = [
         ]
     },
     {
-        question: "Quelle est la particularité du cor de Boromir ?",
+        question: "Quelle est la particularité du cor de Boromir ?",
         difficulty: 2,
         trueAnswer: "Il s’agirait d’un cor magique qui pourrait être entendu au Gondor peu importe où se trouve son utilisateur. Faramir entendit la sonnerie du cor de Boromir et fit également un rêve de la mort de son frère (mais ce rêve n’est pas dû au cor).",
         answers:[
@@ -1474,9 +1474,9 @@ const questions = [
         ]
     },
     {
-        question: "Comment s’appelle le seigneur des Aigles géants et ami de Gandalf ?",
+        question: "Comment s’appelle le seigneur des Aigles géants et ami de Gandalf ?",
         difficulty: 2,
-        trueAnswer: "« Vinrent là Gwaihir le Seigneur du Vent et son frère Landroval, plus grands de tous les Aigles du Nord, plus formidables descendants de Thorondor l’ancien, lui dont les aires étaient disséminées sur les pics inaccessibles des Montagnes Encerclantes, quand la Terre du Milieu était jeune. » — Le Seigneur des Anneaux — Livre VI — Chapitre 4 Il s’agit de Gwahir, qui porta Gandalf trois fois car reconnaissant que ce dernier l’ait soigné d’une flèche autrefois. C’est notamment lui qui alla chercher Gandalf en haut de la tour de Durin après son combat contre le Balrog et qui récupéra plus tard Frodon et Sam sur les flancs de la Montagne du Destin après que l’Anneau ait été détruit. Les nains d’Erebor lui firent une couronne en or et le reconnurent en tant que roi de tous les oiseaux pour le remercier d’avoir pris part à la bataille des Cinq Armées. A ne pas confondre avec Thorondor, son ancêtre, qui était le seigneur des Aigles jusqu’au Premier Âge, où il mena le combat aérien aux côtés d’Eärendil contre tous les dragons de Morgoth lors de la bataille finale contre ce dernier.",
+        trueAnswer: "« Vinrent là Gwaihir le Seigneur du Vent et son frère Landroval, plus grands de tous les Aigles du Nord, plus formidables descendants de Thorondor l’ancien, lui dont les aires étaient disséminées sur les pics inaccessibles des Montagnes Encerclantes, quand la Terre du Milieu était jeune. » — Le Seigneur des Anneaux — Livre VI — Chapitre 4 Il s’agit de Gwahir, qui porta Gandalf trois fois car reconnaissant que ce dernier l’ait soigné d’une flèche autrefois. C’est notamment lui qui alla chercher Gandalf en haut de la tour de Durin après son combat contre le Balrog et qui récupéra plus tard Frodon et Sam sur les flancs de la Montagne du Destin après que l’Anneau ait été détruit. Les nains d’Erebor lui firent une couronne en or et le reconnurent en tant que roi de tous les oiseaux pour le remercier d’avoir pris part à la bataille des Cinq Armées. A ne pas confondre avec Thorondor, son ancêtre, qui était le seigneur des Aigles jusqu’au Premier Âge, où il mena le combat aérien aux côtés d’Eärendil contre tous les dragons de Morgoth lors de la bataille finale contre ce dernier.",
         answers:[
             { text: "Thorondor", correct: false},
             { text: "Gwahir", correct: true},
@@ -1485,7 +1485,7 @@ const questions = [
         ]
     },
     {
-        question: "Laquelle de ces régions ne faisait pas partie du Grand Royaume de l’Arnor ?",
+        question: "Laquelle de ces régions ne faisait pas partie du Grand Royaume de l’Arnor ?",
         difficulty: 2,
         trueAnswer: "Toutes ces régions sont sur le territoire disparu du Grand Royaume de l’Arnor, hormis l’Enedwaith qui se situe dans le Sud de l’Eriador, non loin de la Trouée du Rohan.",
         answers:[
@@ -1496,7 +1496,7 @@ const questions = [
         ]
     },
     {
-        question: "A qui les morts parjures avaient-ils promis leur aide dans la guerre contre Sauron ?",
+        question: "A qui les morts parjures avaient-ils promis leur aide dans la guerre contre Sauron ?",
         difficulty: 2,
         trueAnswer: "Ils avaient promis leur aide à Isildur, cofondateur du Gondor avec son petit frère Anarion. C’est d’ailleurs lui qui les maudit quand ils ne respectèrent pas leur serment.",
         answers:[
@@ -1507,7 +1507,7 @@ const questions = [
         ]
     },
     {
-        question: "Comment est mort Isildur ?",
+        question: "Comment est mort Isildur ?",
         difficulty: 2,
         trueAnswer: "Il fut pris dans une embuscade orque avec trois de ses fils aux Champs des Iris alors qu’il rejoignait l’Arnor pour succéder à son père Elendil mort durant la bataille finale contre Sauron. C’est lui qui réussit à vaincre Sauron sur le champ de bataille mais qui, malgré les conseils d’Elrond, ne se résolut pas à jeter l’Anneau Unique dans le feu de la Montagne du Destin.",
         answers:[
@@ -1518,7 +1518,7 @@ const questions = [
         ]
     },
     {
-        question: "Comment est mort Anárion ?",
+        question: "Comment est mort Anárion ?",
         difficulty: 2,
         trueAnswer: "Anárion reçut une pierre en pleine tête lancée depuis les remparts de Barad-Dûr lors du siège de cette dernière par La Dernière Alliance des Hommes et des Elfes. Ces trois premiers fils périrent également dans la bataille. Après la chute de Sauron, Isildur devint roi de l’Arnor à la place de son père Elendil, en plus d’être roi du Gondor (titre qu’il partageait avec Anárion avant sa mort). Il confia alors la régence du Gondor à Meneldil, le 4e fils d’Anárion, qui se proclama roi du Gondor à la mort de son oncle Isildur.",
         answers:[
@@ -1529,7 +1529,7 @@ const questions = [
         ]
     },
     {
-        question: "Pourquoi les Nains n’aident pas les Hommes pendant la Guerre de l’Anneau ?",
+        question: "Pourquoi les Nains n’aident pas les Hommes pendant la Guerre de l’Anneau ?",
         difficulty: 2,
         trueAnswer: "A cette période, Sauron sait que l’Anneau est dans les mains d’un semi-homme du nom de Sacquet. De même qu’un semi-homme du nom de Bilbon Sacquet aida les Nains à récupérer la Montagne Solitaire. Il envoya à plusieurs reprises un émissaire auprès de Daïn II Pied d’Acier, roi d’Erebor (et cousin de Thorïn II écu de chêne) pour monnayer des informations et leur aide, et notamment certains des sept anneaux des Nains qui ne furent pas détruits par le feu des dragons. Daïn II refusa et entra ouvertement en guerre contre Sauron. Il fut à la tête des armées naines pour défendre la ville des Hommes de Dale, dirigée par son ami Brand le roi du Val (petit-fils de Bard l’Archer qui tua Smaug). Ce dernier mourut face aux armées d’orientaux envoyées par Sauron et son fils Bard II alla se réfugier à Erebor avec Thorin III (le fils du roi Daïn II) avec le restant de leurs troupes, où ils résistèrent aux sièges. Pendant cette bataille Durin II Pied d’Acier couvrit la retraite de son fils et du jeune roi Bard II en restant aux côtés du corps du roi Brand, tuant tous ceux qui s’en approchaient, afin d’éviter qu’il soit mutilé et profané par l’ennemi. Il y laissera la vie.",
         answers:[
@@ -1540,9 +1540,9 @@ const questions = [
         ]
     },
     {
-        question: "Quelle chaîne de montagnes ne se trouve pas en Terre du Milieu ?",
+        question: "Quelle chaîne de montagnes ne se trouve pas en Terre du Milieu ?",
         difficulty: 2,
-        trueAnswer: "« Sur la côte Est du Pays d'Aman venait finir Belegaer, la Grande Mer de l'Ouest, et comme Melkor était sur la Terre du Milieu et qu'ils ne pouvaient le renverser, les Valar fortifièrent leur demeure en élevant près de la côte les Pelóri, les plus hautes montagnes du monde. » Le Silmarillion - Quenta Silmarillion - Chapitre 1  Les Pelóri, signifiant hauteurs défensives en elfiques, traversaient de Nord en Sud l’entièreté du continent d’Aman par sa côte Est (Aman = les Terres Immortelles).",
+        trueAnswer: "« Sur la côte Est du Pays d'Aman venait finir Belegaer, la Grande Mer de l'Ouest, et comme Melkor était sur la Terre du Milieu et qu'ils ne pouvaient le renverser, les Valar fortifièrent leur demeure en élevant près de la côte les Pelóri, les plus hautes montagnes du monde. » Le Silmarillion - Quenta Silmarillion - Chapitre 1  Les Pelóri, signifiant hauteurs défensives en elfiques, traversaient de Nord en Sud l’entièreté du continent d’Aman par sa côte Est (Aman = les Terres Immortelles).",
         answers:[
             { text: "Ered Mithrin", correct: false},
             { text: "Ered Nimrais", correct: false},
@@ -1551,9 +1551,9 @@ const questions = [
         ]
     },
     {
-        question: "Qu’est-ce que Minas Morgul ?",
+        question: "Qu’est-ce que Minas Morgul ?",
         difficulty: 2,
-        trueAnswer: "Au départ elle se nommait Minas Ithil, la tour de la Lune, et fut fondée par Isildur. Son frère Anárion fonda de l’autre côté de l’Anduin Minas Anor, la tour du Soleil (qui prit plus tard le nom de Minas Tirith, la tour de garde). Entre les deux, sur l’Anduin, ils fondèrent Osgiliath, qui serait la capitale de leur royaume : le Gondor.",
+        trueAnswer: "Au départ elle se nommait Minas Ithil, la tour de la Lune, et fut fondée par Isildur. Son frère Anárion fonda de l’autre côté de l’Anduin Minas Anor, la tour du Soleil (qui prit plus tard le nom de Minas Tirith, la tour de garde). Entre les deux, sur l’Anduin, ils fondèrent Osgiliath, qui serait la capitale de leur royaume : le Gondor.",
         answers:[
             { text: "La ville fondée par Isildur connue sous le nom de Minas Ithil, puis prise par l’ennemi", correct: true},
             { text: "Une ville fondée par Sauron pour faire face à Minas Tirith", correct: false},
@@ -1562,7 +1562,7 @@ const questions = [
         ]
     },
     {
-        question: "Quel âge fête Frodon le jour des 111 ans de Bilbon ?",
+        question: "Quel âge fête Frodon le jour des 111 ans de Bilbon ?",
         difficulty: 2,
         trueAnswer: "Frodon et Bilbon ont exactement 78 ans d’écart, car ils sont nés tous deux le 22 septembre. Frodon fête donc ses 33 ans le jour des 111 ans de son oncle.",
         answers:[
@@ -1573,7 +1573,7 @@ const questions = [
         ]
     },
     {
-        question: "Dans le film, comment réagit Aragorn quand Eowyn lui amène le ragoût qu’elle a préparé ?",
+        question: "Dans le film, comment réagit Aragorn quand Eowyn lui amène le ragoût qu’elle a préparé ?",
         difficulty: 2,
         trueAnswer: "Il le jette par terre de dégoût dès qu’elle a le dos tourné, et se brûle au passage car Eowyn se retourne brusquement après avoir fait mine de partir.",
         answers:[
@@ -1584,7 +1584,7 @@ const questions = [
         ]
     },
     {
-        question: "Chez les Hobbits, que doit-on faire le jour de son anniversaire ?",
+        question: "Chez les Hobbits, que doit-on faire le jour de son anniversaire ?",
         difficulty: 2,
         trueAnswer: "Dans la culture Hobbits, c’est à celui qui fête son anniversaire d’offrir des cadeaux. Lors du 111e anniversaire de Bilbon, resté dans les mémoires de Hobbits, tous les invités se sont vus offrir de magnifiques cadeaux de la part de Bilbon.",
         answers:[
@@ -1595,9 +1595,9 @@ const questions = [
         ]
     },
     {
-        question: "Comment s’appelle le poney qui transporte les affaires de la Communauté ?",
+        question: "Comment s’appelle le poney qui transporte les affaires de la Communauté ?",
         difficulty: 2,
-        trueAnswer: "« Mais de toute façon, nous ne pouvons emmener cette pauvre bête dans les Mines. […] J’en suis navré, dit Gandalf. Le pauvre Bill a été un compagnon utile, et c’est un crève-cœur de l’abandonner maintenant. »— Le Seigneur des Anneaux — Livre II — Chapitre 4.",
+        trueAnswer: "« Mais de toute façon, nous ne pouvons emmener cette pauvre bête dans les Mines. […] J’en suis navré, dit Gandalf. Le pauvre Bill a été un compagnon utile, et c’est un crève-cœur de l’abandonner maintenant. »— Le Seigneur des Anneaux — Livre II — Chapitre 4.",
         answers:[
             { text: "Bill", correct: false},
             { text: "John", correct: true},
@@ -1606,9 +1606,9 @@ const questions = [
         ]
     },
     {
-        question: "Comment s’appelait le précédent propriétaire de Bill le Poney ?",
+        question: "Comment s’appelait le précédent propriétaire de Bill le Poney ?",
         difficulty: 2,
-        trueAnswer: "« J’ai quelque chose qui vous appartient. Si vous vous rappelez Bill Fougeron et le vol des chevaux : son poney que vous aviez acheté, eh bien, il est ici. » — Le Seigneur des Anneaux — Livre VI — Chapitre 7. Pendant leur nuit au Poney Fringant, Aragorn et les Hobbits se sont fait voler leur chevaux. Ils ont donc été contraints d’acheter Bill, un poney malade et famélique à Bill Fougeron pour le prix d’un cheval en plein santé.",
+        trueAnswer: "« J’ai quelque chose qui vous appartient. Si vous vous rappelez Bill Fougeron et le vol des chevaux : son poney que vous aviez acheté, eh bien, il est ici. » — Le Seigneur des Anneaux — Livre VI — Chapitre 7. Pendant leur nuit au Poney Fringant, Aragorn et les Hobbits se sont fait voler leur chevaux. Ils ont donc été contraints d’acheter Bill, un poney malade et famélique à Bill Fougeron pour le prix d’un cheval en plein santé.",
         answers:[
             { text: "Graham Tendremélèze", correct: false},
             { text: "Prosper Poiredebeurré", correct: false},
@@ -1617,9 +1617,9 @@ const questions = [
         ]
     },
     {
-        question: "Dans les livres combien de temps y a t’il entre le 111ème anniversaire de Bilbon et le début de la quête de Frodon ?",
+        question: "Dans les livres combien de temps y a t’il entre le 111ème anniversaire de Bilbon et le début de la quête de Frodon ?",
         difficulty: 2,
-        trueAnswer: "Le Seigneur des Anneaux commence avec la fête d’adieu de Bilbon pour son 111eme anniversaire, le jour des 33 ans de Frodon. Lorsque Gandalf revient voir Frodon dans la Comté pour lui dire de partir et convenir du rendez-vous au Poney Fringant, Frodon a alors 50 ans, soit 17 ans plus tard !",
+        trueAnswer: "Le Seigneur des Anneaux commence avec la fête d’adieu de Bilbon pour son 111eme anniversaire, le jour des 33 ans de Frodon. Lorsque Gandalf revient voir Frodon dans la Comté pour lui dire de partir et convenir du rendez-vous au Poney Fringant, Frodon a alors 50 ans, soit 17 ans plus tard !",
         answers:[
             { text: "17 jours", correct: false},
             { text: "7 mois", correct: false},
@@ -1628,7 +1628,7 @@ const questions = [
         ]
     },
     {
-        question: "De qui provient le prophétie du Roi Sorcier d’Angmar ?",
+        question: "De qui provient le prophétie du Roi Sorcier d’Angmar ?",
         difficulty: 2,
         trueAnswer: "Lors de la bataille de Fornost, capitale de l’Arthedain et dernier vestige du royaume de l’Arnor encore debout, les armées des Hommes furent mises en déroute par le Roi Sorcier d’Angmar et ses armées. C’est alors que l’armée du Gondor menée par le prince Eärnur, fils du roi Eärnil II, et celle des elfes de Foncombe, menée par Glorfindel, arrivèrent mais trop tard. L’Arnor fut détruit et son roi s’enfuit. Mais les armées du Gondor et de Fondcombe anéantirent les forces d’Angmar, jusqu’à ce que le Roi Sorcier fondit sur Eärnur en le défiant. Le cheval de ce dernier s’enfuit de peur, provoquant les moqueries du lieutenant de Sauron qui, devant Glorfindel, fut contraint lui aussi de fuir. Eärnur, se sentant humilié, voulut poursuivre le Roi Sorcier d’Angmar mais Glorfindel l’en empêcha, lui prophétisant qu’il ne mourrait pas de main d’homme.",
         answers:[
@@ -1639,7 +1639,7 @@ const questions = [
         ]
     },
     {
-        question: "Comment est mort le dernier Roi du Gondor ?",
+        question: "Comment est mort le dernier Roi du Gondor ?",
         difficulty: 2,
         trueAnswer: "Le Roi Sorcier d’Angmar envoya un messager en 2050 du Troisième Âge à Eärnur, Roi du Gondor, l’invitant à se présenter seul devant Minas Morgul pour le défier. Sans descendance et malgré les contre-indications de Mardil son conseiller et intendant, Eärnur accepta le défi et partit seul à Minas Morgul. Personne ne le revit plus jamais et Mardil fut le premier intendant à gouverner le Gondor et depuis, c’est sa descendance qui hérita des rênes du pouvoir jusqu’à Denethor II, le dernier intendant.",
         answers:[
@@ -1650,9 +1650,9 @@ const questions = [
         ]
     },
     {
-        question: "A qui correspond cette description : «  Ses cheveux, pareils aux ombres du crépuscule, étaient coiffés d’un mince bandeau d’argent ; ses yeux étaient du gris d’un soir clair, et il y avait en eux une lumière semblable à celle des étoiles. » ?",
+        question: "A qui correspond cette description : « Ses cheveux, pareils aux ombres du crépuscule, étaient coiffés d’un mince bandeau d’argent ; ses yeux étaient du gris d’un soir clair, et il y avait en eux une lumière semblable à celle des étoiles. » ?",
         difficulty: 2,
-        trueAnswer: "La suite de la citation : \"Il paraissait vénérable, tel un roi couronné de maints hivers, mais vigoureux néanmoins, tel un guerrier endurci, dans la force de l’âge. Il était Seigneur de Fondcombe et puissant parmi les Elfes et les Hommes. \" — Le Seigneur des Anneaux — Livre II — Chapitre 1 (donc Elrond).",
+        trueAnswer: "La suite de la citation : \"Il paraissait vénérable, tel un roi couronné de maints hivers, mais vigoureux néanmoins, tel un guerrier endurci, dans la force de l’âge. Il était Seigneur de Fondcombe et puissant parmi les Elfes et les Hommes. \" — Le Seigneur des Anneaux — Livre II — Chapitre 1 (donc Elrond).",
         answers:[
             { text: "Elrond", correct: true},
             { text: "Imrahil", correct: false},
@@ -1661,9 +1661,9 @@ const questions = [
         ]
     },
     {
-        question: "A qui correspond cette description : « Il portait un grand chapeau bleu et pointu, une longue cape grise et une écharpe argent, surmontée d’une barbe blanche qui descendait jusque sous la ceinture, ainsi que d’énormes bottes noires. » ?",
+        question: "A qui correspond cette description : « Il portait un grand chapeau bleu et pointu, une longue cape grise et une écharpe argent, surmontée d’une barbe blanche qui descendait jusque sous la ceinture, ainsi que d’énormes bottes noires. » ?",
         difficulty: 2,
-        trueAnswer: "Le début du passage est « Bilbon, qui ne se méfiait pas, ne vit ce matin-là qu’un vieillard avec un bâton. Il portait un grand chapeau bleu [...] ainsi que d’énormes bottes noires. » — J. R. R. Tolkien, Le Hobbit, Chapitre 1. Il s’agit de Gandalf !",
+        trueAnswer: "Le début du passage est « Bilbon, qui ne se méfiait pas, ne vit ce matin-là qu’un vieillard avec un bâton. Il portait un grand chapeau bleu [...] ainsi que d’énormes bottes noires. » — J. R. R. Tolkien, Le Hobbit, Chapitre 1. Il s’agit de Gandalf !",
         answers:[
             { text: "Tom Bombadil", correct: false},
             { text: "Gandalf le Gris", correct: true},
@@ -1672,7 +1672,7 @@ const questions = [
         ]
     },
     {
-        question: "Andúril, l’épée d’Aragorn, a été reforgée avec les fragments de quelle autre épée ?",
+        question: "Andúril, l’épée d’Aragorn, a été reforgée avec les fragments de quelle autre épée ?",
         difficulty: 2,
         trueAnswer: "Avec les fragments de Narzil, l’épée des Rois brisée par Isildur lorsqu’il vaincut Sauron et récupéra l’Anneau. Les éclats de l’épée furent ensuite envoyés à Foncombe où ils furent conservés jusqu’à ce que l’épée soit reforgée pour Aragorn.",
         answers:[
@@ -1685,7 +1685,7 @@ const questions = [
     {
         question: "Quand Aragorn récupère Andúril dans les livres?",
         difficulty: 2,
-        trueAnswer: "« Elle était très brillante, cette épée, quand elle fut de nouveau complète ; la lumière du Soleil y scintillait avec un éclat rouge et celle de la Lune y luisait avec un reflet froid ; et le fil en était dur et tranchant. Et Aragorn lui donna un nouveau nom, l’appelant Anduril, Flamme de l’Ouest. » — Le Seigneur des Anneaux — Livre II — Chapitre 3. Cela se passa juste avant son départ de Fondcombe avec la communauté, et donc avec Anduril à sa ceinture.",
+        trueAnswer: "« Elle était très brillante, cette épée, quand elle fut de nouveau complète ; la lumière du Soleil y scintillait avec un éclat rouge et celle de la Lune y luisait avec un reflet froid ; et le fil en était dur et tranchant. Et Aragorn lui donna un nouveau nom, l’appelant Anduril, Flamme de l’Ouest. » — Le Seigneur des Anneaux — Livre II — Chapitre 3. Cela se passa juste avant son départ de Fondcombe avec la communauté, et donc avec Anduril à sa ceinture.",
         answers:[
             { text: "Avant les évènements de la Guerre de l’Anneau", correct: false},
             { text: "En partant de Foncombe à la suite du Conseil", correct: true},
@@ -1694,7 +1694,7 @@ const questions = [
         ]
     },
     {
-        question: "Qui a forgé l'épée Narsil ?",
+        question: "Qui a forgé l'épée Narsil ?",
         difficulty: 2,
         trueAnswer: "Il s’agit de Telchar, le plus illustre des forgerons Nains. Il vivait dans la cité naine de Nogrod au Premier Âge et forgea plusieurs objets restés mythiques comme le Heaume du Dragon (à l’effigie de Glaurung, le premier des dragons) ou encore Angrist (le poignard avec lequel Beren retira l’un des Silmarils de la couronne de Morgoth).",
         answers:[
@@ -1705,7 +1705,7 @@ const questions = [
         ]
     },
     {
-        question: "Quelle épée n’apparaît pas à l’écran dans les films Le Seigneur des Anneaux ?",
+        question: "Quelle épée n’apparaît pas à l’écran dans les films Le Seigneur des Anneaux ?",
         difficulty: 2,
         trueAnswer: "Gúthwinë est l’épée d’Eomer, Hadhafang celle d’Arwen et Herugrim est l’épée du roi Théoden. Angrist est un poignard forgé par le nain forgeron Telchar et non une épée. Il n’apparaît pas dans les films car il se brise au Premier Âge, lorsque Beren s’en sert pour retirer l’un des Silmarils de la couronne de Morgoth. En se cassant, il blessa la joue de ce dernier.",
         answers:[
@@ -1716,7 +1716,7 @@ const questions = [
         ]
     },
     {
-        question: "Qu’est-ce que la Compagnie Grise ?",
+        question: "Qu’est-ce que la Compagnie Grise ?",
         difficulty: 2,
         trueAnswer: "C’est un groupe d’une trentaine de Dúnedains (= descendants des Numénoréens qui échappèrent au cataclysme avec Elendil pour s’établir en Terre du Milieu créant le royaume de l’Arnor) accompagnés des jumeaux d’Elrond. Ils rejoignirent Aragorn au gué de l’Isen et se battirent à ses côtés, jusqu’à la bataille finale devant la Porte Noire du Mordor.",
         answers:[
@@ -1727,7 +1727,7 @@ const questions = [
         ]
     },
     {
-        question: "Qui est le chef de la Compagnie Grise ?",
+        question: "Qui est le chef de la Compagnie Grise ?",
         difficulty: 2,
         trueAnswer: "Il s’agit d’Halbarad, ami et parent d’Aragorn, qui dirige la Compagnie Grise. C’est lui qui apporte à Aragorn l’étendard des rois du Gondor qu’Arwen confectionna pour lui. Il mourra pendant la bataille des champs du Pelennor.",
         answers:[
@@ -1738,7 +1738,7 @@ const questions = [
         ]
     },
     {
-        question: "Comment s’appelle la rivière qui coule devant les mur de la Moria ?",
+        question: "Comment s’appelle la rivière qui coule devant les mur de la Moria ?",
         difficulty: 2,
         trueAnswer: "C’est le Sirannon, appelé aussi ruisseau de la Porte. Un éboulement se produisit sur son cours, ce qui forma un lac devant les murs de la Moria.",
         answers:[
@@ -1749,18 +1749,18 @@ const questions = [
         ]
     },
     {
-        question: "Le cri de guerre des Rohirrims est « Forth Eorlingas », pourquoi ?",
+        question: "Le cri de guerre des Rohirrims est « Forth Eorlingas », pourquoi ?",
         difficulty: 2,
         trueAnswer: "C’est en mémoire de Eorl le Jeune (Eorlingas = peuple d’Eorl). Ce fut le premier homme qui dompta un Mearas. C’est d’ailleurs en essayant de dompter Felaróf que le père d’Eorl périt, laissant le pouvoir à son fils de 16 ans. Moins de 10 ans plus tard, le Gondor était au bord de la défaite contre des Hommes de l’Est dans la région du Calenardhon (Nord du Gondor) et envoya une demande d’aide aux Éothéod, les cavaliers du Nord. Eorl, leur chef, chevaucha à leur rescousse avec une armée de cavaliers et ils détruisirent totalement l’ennemi. En remerciement, Cirion, l’Intendant du Gondor, offrit le Calenardhon aux Éothéod, qui devint le Rohan. En retour, Eorl le Jeune fit le serment d’aider le Gondor à chaque fois qu’il en aurait besoin. Ce serment est connu sous le nom de Serment d’Eorl et Théoden l’honora une nouvelle fois lors de la Guerre de l’Anneau.",
         answers:[
             { text: "Ce n’est jamais précisé", correct: false},
             { text: "En mémoire d’Eöl, un elfe vivant reclus dans le Beleriend et qui forgea deux épées à partir d’une météorite, l’une servant encore comme épée du roi", correct: false},
-            { text: "Eorl signifie soleil dans leur langue, cela veut dire « pour un nouveau jour »", correct: false},
+            { text: "Eorl signifie soleil dans leur langue, cela veut dire « pour un nouveau jour »", correct: false},
             { text: "En souvenir d’Eorl, le premier grand roi de ce peuple qui les mena à la victoire", correct: true},
         ]
     },
     {
-        question: "Quelle est la particularité de Kheled-Zâram (le lac à la sortie Est de la Moria) ?",
+        question: "Quelle est la particularité de Kheled-Zâram (le lac à la sortie Est de la Moria) ?",
         difficulty: 2,
         trueAnswer: "Quand on regarde dans le Kheled-Zâram, ou lac du miroir, on y voit, en plus du reflet des montagnes autour, celui des étoiles et ça, même en plein jour. En le contemplant, Durin Ier vit apparaître les étoiles comme si elles formaient une couronne au dessus de sa tête. Y voyant un signe, il décida alors de fonder le royaume de Khazâd-dûm à cet endroit. On retrouve d’ailleurs les étoiles sur le blason de Durin Ier (au nombre de sept comme les sept Pères des Nains dont Durin faisait partie).",
         answers:[
@@ -1771,7 +1771,7 @@ const questions = [
         ]
     },
     {
-        question: "Quelle est la particularité de la statue au milieu de La Croisée des Chemins, un carrefour entre Osgiliath et Minas Morgul ?",
+        question: "Quelle est la particularité de la statue au milieu de La Croisée des Chemins, un carrefour entre Osgiliath et Minas Morgul ?",
         difficulty: 2,
         trueAnswer: "Il s’agit tout simplement d’une statue ordinaire, représentant l’un des rois du Gondor et qui fut détériorée à plusieurs reprises par des orques. Elle fut même décapitée par ces derniers et sa tête fut remplacée par une grosse pierre ronde gribouillée en visage grimaçant avec un seul grand œil rouge, la marque de Sauron.",
         answers:[
@@ -1782,7 +1782,7 @@ const questions = [
         ]
     },
     {
-        question: "Lequel de ces personnages n’a jamais été l’allié de Sauron (volontairement ou non) ?",
+        question: "Lequel de ces personnages n’a jamais été l’allié de Sauron (volontairement ou non) ?",
         difficulty: 2,
         trueAnswer: "Saroumane s’allia avec Sauron dans le but de trouver l’Anneau Unique et d’utiliser son pouvoir pour le vaincre. Après avoir été vaincu et emprisonné par Ar-Pharazôn le Doré, Sauron devint petit à petit son conseiller et retourna Númenor contre les Valar, causant sa destruction. Sauron se présenta aux Elfes en tant qu’Annatar, Seigneur des Dons et envoyé des Valar. Il eut rapidement la confiance de Celebrimbor et des autres Elfes de l’Eregion en les aidant à forger des anneaux de pouvoirs de plus en plus puissants. Seule Galadriel mit ses semblables en garde et finit par quitter l’Eregion, sentant le retour du Mal en Terre du Milieu.",
         answers:[
@@ -1793,7 +1793,7 @@ const questions = [
         ]
     },
     {
-        question: "Pourquoi y a-t-il très peu d’Ent ?",
+        question: "Pourquoi y a-t-il très peu d’Ent ?",
         difficulty: 2,
         trueAnswer: "Les Ents mâles préfèrent les forêts alors que les femelles préfèrent les vergers. C’est naturellement qu’ils se séparèrent, mais ça ne les empêchait pas de se retrouver. Les Ents femelles auraient été prises dans une bataille contre Sauron et ses forces, causant leur destruction totale. Quand des Ents mâles retournèrent dans le verger des femmes Ents, ils s’aperçurent que le verger était dévasté et ne retrouvèrent aucune trace des femmes Ents. Depuis, ils les cherchent toujours, ignorant ce qui s’est passé.",
         answers:[
@@ -1804,7 +1804,7 @@ const questions = [
         ]
     },
     {
-        question: "Quelle scène suivante ne s’est jamais produit dans l’univers du Seigneur des Anneaux ?",
+        question: "Quelle scène suivante ne s’est jamais produit dans l’univers du Seigneur des Anneaux ?",
         difficulty: 2,
         trueAnswer: "Les Aigles portèrent Gandalf par trois fois. Lors des batailles du Beleriand contre Morgoth, il était courant que les Balrogs (alors en nombre) chevauchaient des dragons sur le champ de bataille. Huan, le chien géant et chef de meute des Valar, tua bon nombre de loups garous, leur chef Draugluin (le premier des loups garous) et vainquit Sauron (qui avait pris la forme du plus grand loup garou possible) pour sauver l’homme Beren. Plus tard, il revêtit la peau de Draugluin avec Beren et Lúthien sur le dos pour les aider à s’infiltrer dans Angband, la forteresse de Morgoth, afin de lui voler un Silmaril. Gripoils accepte de porter Gandalf à la condition qu'il ne porte pas de bride",
         answers:[
@@ -1815,7 +1815,7 @@ const questions = [
         ]
     },
     {
-        question: "Dans les livres, que fait Saroumane à la fin ?",
+        question: "Dans les livres, que fait Saroumane à la fin ?",
         difficulty: 2,
         trueAnswer: "texte de réponse",
         answers:[
@@ -1826,9 +1826,9 @@ const questions = [
         ]
     },
     {
-        question: "Lequel de ces personnages ne meurt pas lors de la Guerre de l’Anneau ?",
+        question: "Lequel de ces personnages ne meurt pas lors de la Guerre de l’Anneau ?",
         difficulty: 2,
-        trueAnswer: "C’était un piège ! Haldir meurt à la bataille du Gouffre de Helm dans les films mais pas dans les livres. Gríma meurt à la toute fin, lors de la reprise de la Comté par les Hobbits. Háma périt pendant la bataille du Gouffre de Helm et Grimbold perd la vie sur les champs du Pelennor, devant Minas Tirith, lors de la charge des Rohirrims.",
+        trueAnswer: "C’était un piège ! Haldir meurt à la bataille du Gouffre de Helm dans les films mais pas dans les livres. Gríma meurt à la toute fin, lors de la reprise de la Comté par les Hobbits. Háma périt pendant la bataille du Gouffre de Helm et Grimbold perd la vie sur les champs du Pelennor, devant Minas Tirith, lors de la charge des Rohirrims.",
         answers:[
             { text: "Haldir", correct: true},
             { text: "Gríma", correct: false},
@@ -1837,9 +1837,9 @@ const questions = [
         ]
     },
     {
-        question: "Minas Tirith est constituée d’une succession de niveaux en forme de cercles empilés les uns sur les autres. Combien y a t il de niveau en tout ?",
+        question: "Minas Tirith est constituée d’une succession de niveaux en forme de cercles empilés les uns sur les autres. Combien y a t il de niveau en tout ?",
         difficulty: 2,
-        trueAnswer: "« Et là, à l’endroit où se terminaient les Montagnes Blanches des Ered Nimrais, il vit, comme Gandalf le lui avait annoncé, la sombre masse du mont Mindolluin, les ombres violettes de ses hauts cols, et sa haute face blanche dévoilée par le jour croissant. Et sur le genou qu’elle projetait, était assise la Cité Gardée et ses sept murs de pierres, si forts et si anciens qu’elle semblait non pas bâtie de main d’homme, mais sculptée par des géants dans l’ossature de la terre. » — Le Seigneur des Anneaux — Livre V — Chapitre 1.",
+        trueAnswer: "« Et là, à l’endroit où se terminaient les Montagnes Blanches des Ered Nimrais, il vit, comme Gandalf le lui avait annoncé, la sombre masse du mont Mindolluin, les ombres violettes de ses hauts cols, et sa haute face blanche dévoilée par le jour croissant. Et sur le genou qu’elle projetait, était assise la Cité Gardée et ses sept murs de pierres, si forts et si anciens qu’elle semblait non pas bâtie de main d’homme, mais sculptée par des géants dans l’ossature de la terre. » — Le Seigneur des Anneaux — Livre V — Chapitre 1.",
         answers:[
             { text: "5", correct: false},
             { text: "6", correct: false},
@@ -1848,7 +1848,7 @@ const questions = [
         ]
     },
     {
-        question: "Quel est le surnom de Minas Tirith ?",
+        question: "Quel est le surnom de Minas Tirith ?",
         difficulty: 2,
         trueAnswer: "C’est bien sûr la cité blanche, en référence à la couleur de la pierre qui constitue la cité (à part le premier rempart extérieur qui est noir et semble être de même nature que la tour d’Orthanc).",
         answers:[
@@ -1859,9 +1859,9 @@ const questions = [
         ]
     },
     {
-        question: "Comment s’appelle le Palais des Rois du Rohan ?",
+        question: "Comment s’appelle le Palais des Rois du Rohan ?",
         difficulty: 2,
-        trueAnswer: "« Ces habitations se nomment Edoras, dit Gandalf, et cette salle dorée est Meduseld. C’est là que réside Théoden fils de Thengel, Roi de la Marche du Rohan. » — Le Seigneur des Anneaux — Livre III — Chapitre 6",
+        trueAnswer: "« Ces habitations se nomment Edoras, dit Gandalf, et cette salle dorée est Meduseld. C’est là que réside Théoden fils de Thengel, Roi de la Marche du Rohan. » — Le Seigneur des Anneaux — Livre III — Chapitre 6",
         answers:[
             { text: "Le Tertre d’Or de Theoden", correct: false},
             { text: "Le Hall Doré d’Eorl", correct: false},
@@ -1870,9 +1870,9 @@ const questions = [
         ]
     },
     {
-        question: "Comment s’appellent les fils jumeaux d’Elrond, frères d’Arwen ?",
+        question: "Comment s’appellent les fils jumeaux d’Elrond, frères d’Arwen ?",
         difficulty: 2,
-        trueAnswer: "« Et as-tu remarqué les frères Elladan et Elrohir ? Leur vêtement est moins sombre que celui des autres, et ils ont la beauté héroïque que l’on prête aux seigneurs des Elfes – ce qui n’a rien d’étonnant chez les fils d’Elrond de Fondcombe. » — Le Seigneur des Anneaux — Livre V — Chapitre 2",
+        trueAnswer: "« Et as-tu remarqué les frères Elladan et Elrohir ? Leur vêtement est moins sombre que celui des autres, et ils ont la beauté héroïque que l’on prête aux seigneurs des Elfes – ce qui n’a rien d’étonnant chez les fils d’Elrond de Fondcombe. » — Le Seigneur des Anneaux — Livre V — Chapitre 2",
         answers:[
             { text: "Elrohir & Elledan", correct: false},
             { text: "Elrohir & Elladan", correct: true},
@@ -1881,20 +1881,20 @@ const questions = [
         ]
     },
     {
-        question: "Quelle est la suite de cette célèbre réplique de Sam à la fin du 3ème film ? « Je ne peux le porter pour vous, ...",
+        question: "Quelle est la suite de cette célèbre réplique de Sam à la fin du 3ème film ? « Je ne peux le porter pour vous, ...",
         difficulty: 2,
-        trueAnswer: "C’est bien évidement : « Je ne peux le porter pour vous, mais je peux vous portez, vous ! » avant de prendre Frodon sur ses épaules et de continuer l’ascension de la Montagne du Destin.",
+        trueAnswer: "C’est bien évidement : « Je ne peux le porter pour vous, mais je peux vous portez, vous ! » avant de prendre Frodon sur ses épaules et de continuer l’ascension de la Montagne du Destin.",
         answers:[
-            { text: "alors dépêchez-vous !", correct: false},
-            { text: "alors débrouillez-vous !", correct: false},
-            { text: "alors qu’est ce que vous foutez ?!", correct: false},
-            { text: "mais je peux vous portez vous !", correct: true},
+            { text: "alors dépêchez-vous !", correct: false},
+            { text: "alors débrouillez-vous !", correct: false},
+            { text: "alors qu’est ce que vous foutez ?!", correct: false},
+            { text: "mais je peux vous portez vous !", correct: true},
         ]
     },
     {
-        question: "Quelle est l’une des particularités de Dunhart (ou Dunharrow dans les films) ?",
+        question: "Quelle est l’une des particularités de Dunhart (ou Dunharrow dans les films) ?",
         difficulty: 2,
-        trueAnswer: "Il s’agit d’une ancienne forteresse au sud d’Edoras, où se regroupe l’ost du Roi Théoden partant pour Minas Tirith. Elle fut déjà occupée par les ancêtres des Hommes du Pays de Dun mais sa fonction première est inconnue. Peut être un lieu sacré ou une tombe royale car, « Divisant le plateau en deux, une double rangée de pierres levées, mais non travaillées, s’enfonçait dans le crépuscule et disparaissait parmi les arbres. » — Le Seigneur des Anneaux — Livre V — Chapitre 3. Le chemin pour y accéder serpente et est également bordé d’étranges statues nommées Homme-Pouques.",
+        trueAnswer: "Il s’agit d’une ancienne forteresse au sud d’Edoras, où se regroupe l’ost du Roi Théoden partant pour Minas Tirith. Elle fut déjà occupée par les ancêtres des Hommes du Pays de Dun mais sa fonction première est inconnue. Peut être un lieu sacré ou une tombe royale car, « Divisant le plateau en deux, une double rangée de pierres levées, mais non travaillées, s’enfonçait dans le crépuscule et disparaissait parmi les arbres. » — Le Seigneur des Anneaux — Livre V — Chapitre 3. Le chemin pour y accéder serpente et est également bordé d’étranges statues nommées Homme-Pouques.",
         answers:[
             { text: "C’est une ancienne forteresse en hauteur du Rohan", correct: false},
             { text: "Son chemin est bordé d’étranges statues nommées Homme-Pouques", correct: false},
@@ -1903,9 +1903,9 @@ const questions = [
         ]
     },
     {
-        question: "Qu’est ce qu’un Homme-Pouque ?",
+        question: "Qu’est ce qu’un Homme-Pouque ?",
         difficulty: 2,
-        trueAnswer: "« À chaque tournant, il y avait de grandes pierres levées, sculptées à la ressemblance de géants, lourds et mal bâtis, assis les jambes croisées et les bras repliés sur leur panse rebondie. […] Les Cavaliers les regardèrent à peine. Ils les appelaient les Hommes-Pouques, et ils n’y faisaient guère attention… » — Le Seigneur des Anneaux — Livre V — Chapitre 3 ",
+        trueAnswer: "« À chaque tournant, il y avait de grandes pierres levées, sculptées à la ressemblance de géants, lourds et mal bâtis, assis les jambes croisées et les bras repliés sur leur panse rebondie. […] Les Cavaliers les regardèrent à peine. Ils les appelaient les Hommes-Pouques, et ils n’y faisaient guère attention… » — Le Seigneur des Anneaux — Livre V — Chapitre 3 ",
         answers:[
             { text: "De vieilles statues en forme d’hommes trapus de grande taille assis en tailleur, les bras reposant sur leurs gros ventre", correct: true},
             { text: "Une tribu de guerriers du Pays de Dun, de grande taille, à forte corpulence et qui se battait avec deux lances", correct: false},
@@ -1914,9 +1914,9 @@ const questions = [
         ]
     },
     {
-        question: "Dans la trilogie de Peter Jackson, combien de répliques échangent Frodon et Légolas ?",
+        question: "Dans la trilogie de Peter Jackson, combien de répliques échangent Frodon et Légolas ?",
         difficulty: 2,
-        trueAnswer: "Dans toute la saga, il lui dit juste « et mon arc est vôtre ! » soit juste cinq petits mots, à peine de quoi faire une phrase.",
+        trueAnswer: "Dans toute la saga, il lui dit juste « et mon arc est vôtre ! » soit juste cinq petits mots, à peine de quoi faire une phrase.",
         answers:[
             { text: "0", correct: false},
             { text: "1", correct: true},
@@ -1925,7 +1925,7 @@ const questions = [
         ]
     },
     {
-        question: "Quel est le type d’aliments préférés des Hobbits ?",
+        question: "Quel est le type d’aliments préférés des Hobbits ?",
         difficulty: 2,
         trueAnswer: "Ils adorent les champignons par dessous tout. D’ailleurs, Frodon a peur du Père Magoth car quand il était enfant, il venait ramasser des champignons sur ses terres. Le Père Magoth, bien qu’au courant, ne lui en tînt pas rigueur car en se quittant, il offrit à Frodon un gros panier rempli de champignons.",
         answers:[
@@ -1936,9 +1936,9 @@ const questions = [
         ]
     },
     {
-        question: "Quelle est la particularité physique de Círdan, le plus vieil Elfe vivant en Terre du Milieu ?",
+        question: "Quelle est la particularité physique de Círdan, le plus vieil Elfe vivant en Terre du Milieu ?",
         difficulty: 2,
-        trueAnswer: "« À leur arrivée aux portes, Círdan le Constructeur de Navires vint les accueillir. Grand il était, et sa barbe était longue ; et lui-même était gris et vieux, hormis ses yeux perçants comme des étoiles… » — Le Seigneur des Anneaux — Livre VI — Chapitre 9 C’est le seul Elfe connu avec de la barbe !",
+        trueAnswer: "« À leur arrivée aux portes, Círdan le Constructeur de Navires vint les accueillir. Grand il était, et sa barbe était longue ; et lui-même était gris et vieux, hormis ses yeux perçants comme des étoiles… » — Le Seigneur des Anneaux — Livre VI — Chapitre 9 C’est le seul Elfe connu avec de la barbe !",
         answers:[
             { text: "Il a les yeux tellement clairs qu’ils sont quasiment blancs", correct: false},
             { text: "Il a perdu tous ses cheveux", correct: false},
@@ -1947,9 +1947,9 @@ const questions = [
         ]
     },
     {
-        question: "Qui n’est pas sur le bateau des porteurs des anneaux partant des Havres Gris vers les Terres Immortelles ?",
+        question: "Qui n’est pas sur le bateau des porteurs des anneaux partant des Havres Gris vers les Terres Immortelles ?",
         difficulty: 2,
-        trueAnswer: "Le bateau des porteurs des anneaux contient les troid porteurs des anneaux elfiques, Galadriel, Elrond et Gandalf ; ainsi que ceux qui ont porté l’Anneau Unique, Bilbon et Frodon. Ils sont accompagnés par Celeborn, époux de Galadriel, et Círdan le charpentier, lassé de ses millénaires passés en Terre du Milieu (mais certains écrits se contredisent, il serait peut-être finalement resté pour continuer à bâtir des bateaux pour les Elfes désireux de quitter la Terre du Milieu). Dans tous les cas, Haldir ne monta jamais dans ce bateau.",
+        trueAnswer: "Le bateau des porteurs des anneaux contient les troid porteurs des anneaux elfiques, Galadriel, Elrond et Gandalf ; ainsi que ceux qui ont porté l’Anneau Unique, Bilbon et Frodon. Ils sont accompagnés par Celeborn, époux de Galadriel, et Círdan le charpentier, lassé de ses millénaires passés en Terre du Milieu (mais certains écrits se contredisent, il serait peut-être finalement resté pour continuer à bâtir des bateaux pour les Elfes désireux de quitter la Terre du Milieu). Dans tous les cas, Haldir ne monta jamais dans ce bateau.",
         answers:[
             { text: "Bilbon", correct: false},
             { text: "Círdan", correct: false},
@@ -1958,7 +1958,7 @@ const questions = [
         ]
     },
     {
-        question: "Quel âge a Frodon au moment de la Guerre de l’Anneau ?",
+        question: "Quel âge a Frodon au moment de la Guerre de l’Anneau ?",
         difficulty: 2,
         trueAnswer: "L’histoire commence quand il a 33 ans, avec la fête d’anniversaire de son oncle Bilbon, mais la Guerre de l’Anneau commence en 3018 du 3e Age, l’année de ses 50 ans (il est né le 22 septembre 2968 du 3e Age).",
         answers:[
@@ -1969,7 +1969,7 @@ const questions = [
         ]
     },
     {
-        question: "A quel âge est la majorité chez les Hobbits ?",
+        question: "A quel âge est la majorité chez les Hobbits ?",
         difficulty: 2,
         trueAnswer: "Chez les Hobbits, on atteint la majorité à l’âge de 33 ans. C’est également la majorité de Frodon qui est fêtée le jour du 111e anniversaire de Bilbon.",
         answers:[
@@ -1980,20 +1980,20 @@ const questions = [
         ]
     },
     {
-        question: "Quelle est l’inscription sur la tombe que trouve la communauté dans la Moria ?",
+        question: "Quelle est l’inscription sur la tombe que trouve la communauté dans la Moria ?",
         difficulty: 2,
-        trueAnswer: "«	 - On dirait un tombeau, murmura Frodon. […] Sur la dalle, des runes étaient profondément gravées : Ce sont des runes de Daeron, telles qu’on les employait jadis dans la Moria, dit Gandalf. Il est écrit là, dans les langues des Hommes et des Nains : BALÏN FILS DE FUNDÏN SEIGNEUR DE LA MORIA » — Le Seigneur des Anneaux — Livre II — Chapitre 4. que l’on peut traduire en khuzdûl par « Balïn Fundïnul Uzbad Khazaddûmu ».",
+        trueAnswer: "«	 - On dirait un tombeau, murmura Frodon. […] Sur la dalle, des runes étaient profondément gravées : Ce sont des runes de Daeron, telles qu’on les employait jadis dans la Moria, dit Gandalf. Il est écrit là, dans les langues des Hommes et des Nains : BALÏN FILS DE FUNDÏN SEIGNEUR DE LA MORIA » — Le Seigneur des Anneaux — Livre II — Chapitre 4. que l’on peut traduire en khuzdûl par « Balïn Fundïnul Uzbad Khazaddûmu ».",
         answers:[
             { text: "Balin Fundinul Uzbad Khazaddûmu", correct: true},
-            { text: "Baruk Khazâd ! Khazâd ai-mênu !", correct: false},
-            { text: "Ishkhaqwi ai durugnul !", correct: false},
+            { text: "Baruk Khazâd ! Khazâd ai-mênu !", correct: false},
+            { text: "Ishkhaqwi ai durugnul !", correct: false},
             { text: "Balin Uzbad Azaghâl Zirakayabund!", correct: false},
         ]
     },
     {
-        question: "Quel emplacement particulier marque la Pierre de Durïn ?",
+        question: "Quel emplacement particulier marque la Pierre de Durïn ?",
         difficulty: 2,
-        trueAnswer: "« C’est la Pierre de Durïn ! s’écria Gimli […] Cette colonne marque l’endroit d’où Durïn regarda pour la première fois dans le Lac du Miroir, dit le Nain. » — Le Seigneur des Anneaux — Livre I — Chapitre 5. Durin Ier vit y apparaître les étoiles en plein jour comme si elles formaient une couronne au-dessus de sa tête. Y voyant un signe, il décida alors de fonder le royaume de Khazad-dûm à cet endroit.",
+        trueAnswer: "« C’est la Pierre de Durïn ! s’écria Gimli […] Cette colonne marque l’endroit d’où Durïn regarda pour la première fois dans le Lac du Miroir, dit le Nain. » — Le Seigneur des Anneaux — Livre I — Chapitre 5. Durin Ier vit y apparaître les étoiles en plein jour comme si elles formaient une couronne au-dessus de sa tête. Y voyant un signe, il décida alors de fonder le royaume de Khazad-dûm à cet endroit.",
         answers:[
             { text: "L’endroit où Durïn Ier s’est éveillé en Terre du Milieu", correct: false},
             { text: "L’endroit où Durïn Ier regarda dans le Kheled-Zâram pour la première fois", correct: true},
@@ -2002,9 +2002,9 @@ const questions = [
         ]
     },
     {
-        question: "Comment s’appelle le repaire secret de Faramir en Ithilien, qui surplombe le Lac Interdit ?",
+        question: "Comment s’appelle le repaire secret de Faramir en Ithilien, qui surplombe le Lac Interdit ?",
         difficulty: 2,
-        trueAnswer: "« Voici la Fenêtre du Couchant, Henneth Annûn, la plus belle des chutes de l’Ithilien, pays aux mille fontaines. Rares sont les étrangers à l’avoir jamais vue. Mais il n’y a pas de salle royale derrière elle pour égaler sa beauté. » — Le Seigneur des Anneaux — Livre IV — Chapitre 5",
+        trueAnswer: "« Voici la Fenêtre du Couchant, Henneth Annûn, la plus belle des chutes de l’Ithilien, pays aux mille fontaines. Rares sont les étrangers à l’avoir jamais vue. Mais il n’y a pas de salle royale derrière elle pour égaler sa beauté. » — Le Seigneur des Anneaux — Livre IV — Chapitre 5",
         answers:[
             { text: "Henneth Annûn", correct: true},
             { text: "Heneth Annûn", correct: false},
@@ -2013,9 +2013,9 @@ const questions = [
         ]
     },
     {
-        question: "D’où provient directement l’Arbre Blanc du Gondor présent dans la cour du dernier cercle de Minas Tirith, face à la tour d’Echtelion ?",
+        question: "D’où provient directement l’Arbre Blanc du Gondor présent dans la cour du dernier cercle de Minas Tirith, face à la tour d’Echtelion ?",
         difficulty: 2,
-        trueAnswer: "Yavanna créa Galathilion pour les Elfes sur le modèle de Telperion l’Arbre argenté de Valinor. Il donna de nombreuses pousses dont une fut plantée à Tol Eressä, une île proche des côtes du Valinor habité par les Elfes Teleri. Cet arbre fut baptisé Celeborn, Arbre d’Argent. Plus tard, ces Elfes de Tol Eressëa, en très bons termes avec les Hommes de Númenor, avaient pour habitude de leur offrir des cadeaux. Ils leur offrirent donc une pousse de Celeborn que les Númenoréens plantèrent à Armenelos dans les jardins du Roi. Elle fut nommée Nimloth, ce qui signifie « fleur blanche ».Juste avant la chute de Númenor et la fuite d’Elendil et ses fils, Isildur vola un des fruits de Nimloth. Il le garda jusqu’à la mort de son frère Anarion mort dans la guerre contre Sauron. Il le planta alors dans la cité de son frère, en hommage à ce dernier.",
+        trueAnswer: "Yavanna créa Galathilion pour les Elfes sur le modèle de Telperion l’Arbre argenté de Valinor. Il donna de nombreuses pousses dont une fut plantée à Tol Eressä, une île proche des côtes du Valinor habité par les Elfes Teleri. Cet arbre fut baptisé Celeborn, Arbre d’Argent. Plus tard, ces Elfes de Tol Eressëa, en très bons termes avec les Hommes de Númenor, avaient pour habitude de leur offrir des cadeaux. Ils leur offrirent donc une pousse de Celeborn que les Númenoréens plantèrent à Armenelos dans les jardins du Roi. Elle fut nommée Nimloth, ce qui signifie « fleur blanche ».Juste avant la chute de Númenor et la fuite d’Elendil et ses fils, Isildur vola un des fruits de Nimloth. Il le garda jusqu’à la mort de son frère Anarion mort dans la guerre contre Sauron. Il le planta alors dans la cité de son frère, en hommage à ce dernier.",
         answers:[
             { text: "C’est un fruit de Nimloth, l’Arbre Blanc de Númenor, qui fut volé par Isildur avant son exil en Terre du Milieu. Il le replante à Minas Tirith en l’honneur de son frère mort au combat", correct: true},
             { text: "Il s’agit d’une pousse de Celeborn, l’Arbre Blanc de Tol Eressëa donné en cadeau par les Elfes aux Hommes", correct: false},
@@ -2026,7 +2026,7 @@ const questions = [
     {
         question: "Dans la mythologie créée par Tolkien, les chiffres 1, 3, 7 et 9 sont importants car ils correspondent respectivement à l’Anneau Unique (1), aux nombres d’anneaux des Elfes(3), des Nains (7) et des Hommes (9). Ainsi la date de 1973, composée de ces quatre chiffres est hautement symbolique, d’autant plus qu’elle correspond à :",
         difficulty: 2,
-        trueAnswer: "Il obtient le titre de Commandeur de l’Ordre de l’Empire Britannique en 1972. Il mourut l’année d’après en 1973. Son chef d’oeuvre, « Le Silmarillon » paru à titre posthume en 1977 grâce à son fils Christopher Tolkien, qui s’efforça de son vivant à rassembler l’ensemble des manuscrits, notes, lettres, etc...de son père pour terminer et harmoniser son travail",
+        trueAnswer: "Il obtient le titre de Commandeur de l’Ordre de l’Empire Britannique en 1972. Il mourut l’année d’après en 1973. Son chef d’oeuvre, « Le Silmarillon » paru à titre posthume en 1977 grâce à son fils Christopher Tolkien, qui s’efforça de son vivant à rassembler l’ensemble des manuscrits, notes, lettres, etc...de son père pour terminer et harmoniser son travail",
         answers:[
             { text: "l’année où Tolkien obtient le titre de Commandeur de l’Ordre de l’Empire Britannique", correct: false},
             { text: "l’année de parution du Silmarillon, le recueil de l’ensemble de sa mythologie qui avait une grande importance pour lui", correct: false},
@@ -2035,9 +2035,9 @@ const questions = [
         ]
     },
     {
-        question: "Que décident de faire Faramir avec Frodon et Sam en Ithilien quand il apprend qu’ils transportent l’Anneau ?",
+        question: "Que décident de faire Faramir avec Frodon et Sam en Ithilien quand il apprend qu’ils transportent l’Anneau ?",
         difficulty: 2,
-        trueAnswer: "« Quant à vous, Frodon, dans la mesure des pouvoirs qui me sont conférés par une plus haute instance, je vous déclare libre d’aller et venir au royaume de Gondor, jusque sur les confins de son ancien territoire ; à ceci près que ni vous, ni aucun de ceux qui vont avec vous, n’avez la permission de venir en ce lieu sans y être convié. » — Le Seigneur des Anneaux — Livre IV — Chapitre 6.",
+        trueAnswer: "« Quant à vous, Frodon, dans la mesure des pouvoirs qui me sont conférés par une plus haute instance, je vous déclare libre d’aller et venir au royaume de Gondor, jusque sur les confins de son ancien territoire ; à ceci près que ni vous, ni aucun de ceux qui vont avec vous, n’avez la permission de venir en ce lieu sans y être convié. » — Le Seigneur des Anneaux — Livre IV — Chapitre 6.",
         answers:[
             { text: "Ils ne se rencontrent jamais dans les livres", correct: false},
             { text: "Il décide de les laisser partir et de les accompagner un peu sur la route qu’ils ont en commun", correct: true},
@@ -2046,7 +2046,7 @@ const questions = [
         ]
     },
     {
-        question: "Comment s’appelle la capitale de la Lothlórien, demeure de Galadriel et Celeborn ?",
+        question: "Comment s’appelle la capitale de la Lothlórien, demeure de Galadriel et Celeborn ?",
         difficulty: 2,
         trueAnswer: "Caras Galadhon est la capitale de la Lothlórien, le pays que Galadriel créea grâce à ses pouvoirs et dans lequel aucune force de Sauron n'a jamais réussi à pénétrer",
         answers:[
@@ -2057,9 +2057,9 @@ const questions = [
         ]
     },
     {
-        question: "Comment s’appelait la Moria avant sa chute ?",
+        question: "Comment s’appelait la Moria avant sa chute ?",
         difficulty: 2,
-        trueAnswer: "« La Moria, Khazad-dûm ! Mais ça rend les ténèbres plus pesantes, quand on pense à toutes ces lampes. Y a-t-il encore des tas de joyaux et d’or qui dorment ici un peu partout ? » — Le Seigneur des Anneaux — Livre II — Chapitre 4",
+        trueAnswer: "« La Moria, Khazad-dûm ! Mais ça rend les ténèbres plus pesantes, quand on pense à toutes ces lampes. Y a-t-il encore des tas de joyaux et d’or qui dorment ici un peu partout ? » — Le Seigneur des Anneaux — Livre II — Chapitre 4",
         answers:[
             { text: "Khâzad-dûm", correct: false},
             { text: "Khazâd-dum", correct: false},
@@ -2068,7 +2068,7 @@ const questions = [
         ]
     },
     {
-        question: "Où sont envoyés les malades et les blessés à Minas Tirith, et notamment après la bataille des champs du Pelenor ?",
+        question: "Où sont envoyés les malades et les blessés à Minas Tirith, et notamment après la bataille des champs du Pelenor ?",
         difficulty: 2,
         trueAnswer: "Les blessés et les malades sont envoyés aux Maisons de Guérison. Ce fut notamment le cas de Pippin, Eowyn et Faramir. C’est d’ailleurs dans ses jardins qu’Eowyn et Faramir se rencontrèrent pour la première fois et tombèrent amoureux.",
         answers:[
@@ -2079,9 +2079,9 @@ const questions = [
         ]
     },
     {
-        question: "Qu’est ce que le nom « Rath Dínen » désigne ?",
+        question: "Qu’est ce que le nom « Rath Dínen » désigne ?",
         difficulty: 2,
-        trueAnswer: "«Leurs pas lents résonnaient sur les pavés tandis qu’ils descendaient, toujours plus bas, jusqu’à la Rue Silencieuse, Rath Dínen, entre les dômes pâles et les salles vides et les images sculptées d’hommes depuis longtemps partis ; et ils entrèrent dans la Maison des Intendants et y déposèrent leur fardeau. » — Le Seigneur des Anneaux — Livre VI — Chapitre 6.",
+        trueAnswer: "«Leurs pas lents résonnaient sur les pavés tandis qu’ils descendaient, toujours plus bas, jusqu’à la Rue Silencieuse, Rath Dínen, entre les dômes pâles et les salles vides et les images sculptées d’hommes depuis longtemps partis ; et ils entrèrent dans la Maison des Intendants et y déposèrent leur fardeau. » — Le Seigneur des Anneaux — Livre VI — Chapitre 6.",
         answers:[
             { text: "Une ancienne tour du royaume d’Arnor qui abritait un palantir", correct: false},
             { text: "Une route menant aux tombeaux de Minas Tirith", correct: true},
@@ -2090,7 +2090,7 @@ const questions = [
         ]
     },
     {
-        question: "Quel nom donne Pippin à son fils ?",
+        question: "Quel nom donne Pippin à son fils ?",
         difficulty: 2,
         trueAnswer: "Il se nommait Faramir Ier Touc, et prit la succession de son père Peregrin Ier Touc en tant que Thain de la Comté.",
         answers:[
@@ -2101,9 +2101,9 @@ const questions = [
         ]
     },
     {
-        question: "Quel « dirigeant » de la Comté fut nommé « Conseiller du Royaume du Nord » par le Roi Elessar Ier en l’an 13 du Quatrième Âge ?",
+        question: "Quel « dirigeant » de la Comté fut nommé « Conseiller du Royaume du Nord » par le Roi Elessar Ier en l’an 13 du Quatrième Âge ?",
         difficulty: 2,
-        trueAnswer: "Elessar Ier les avait tous nommés « Conseillers du Royaume du Nord », voulant montrer l’importance des peuples Hobbits au sein de son Royaume.",
+        trueAnswer: "Elessar Ier les avait tous nommés « Conseillers du Royaume du Nord », voulant montrer l’importance des peuples Hobbits au sein de son Royaume.",
         answers:[
             { text: "Sam Gamgie, le maire de Grande-Creusé élu pour 7 ans", correct: false},
             { text: "Meriadoc Brandibouc, Maître du Pays-de-Bouc, région indépendante de la Comté sur la rive Ouest du Brandivin", correct: false},
@@ -2112,20 +2112,20 @@ const questions = [
         ]
     },
     {
-        question: "Quelle est la formule pour se servir de la lumière d’Eärendil ?",
+        question: "Quelle est la formule pour se servir de la lumière d’Eärendil ?",
         difficulty: 2,
-        trueAnswer: "«Aiya Eärendil Elenion Ancalima ! Cria-t-il, sans savoir ce qu’il disait ; car on eût dit qu’une autre voix parlait à travers la sienne, claire, inaltérée par l’air vicié du souterrain. » — Le Seigneur des Anneaux — Livre IV — Chapitre 9.",
+        trueAnswer: "«Aiya Eärendil Elenion Ancalima ! Cria-t-il, sans savoir ce qu’il disait ; car on eût dit qu’une autre voix parlait à travers la sienne, claire, inaltérée par l’air vicié du souterrain. » — Le Seigneur des Anneaux — Livre IV — Chapitre 9.",
         answers:[
-            { text: "Eärendil Aiya Elenion Ancalima !", correct: false},
-            { text: "Aiya Eärendil Elenion Ancalima !", correct: true},
-            { text: "Eärendil Elenion Aiya Ancalima !", correct: false},
-            { text: "Aiya Elenion Eärendil Ancalima !", correct: false},
+            { text: "Eärendil Aiya Elenion Ancalima !", correct: false},
+            { text: "Aiya Eärendil Elenion Ancalima !", correct: true},
+            { text: "Eärendil Elenion Aiya Ancalima !", correct: false},
+            { text: "Aiya Elenion Eärendil Ancalima !", correct: false},
         ]
     },
     {
-        question: "Que se passe t-il dans l’antre d’Arachne quand elle se retrouve face à Frodon et Sam ?",
+        question: "Que se passe t-il dans l’antre d’Arachne quand elle se retrouve face à Frodon et Sam ?",
         difficulty: 2,
-        trueAnswer: "« Alors Frodon sentit son coeur s’embraser, et, sans savoir ce qu’il faisait, si c’était folie, désespoir ou acte de courage, il prit la Fiole dans sa main gauche et tira son épée de sa droite. Dard jaillit du fourreau avec un éclair,[…] Frodon, Hobbit du Comté, marcha résolument à la rencontre des yeux. »— Le Seigneur des Anneaux — Livre IV — Chapitre 9.",
+        trueAnswer: "« Alors Frodon sentit son coeur s’embraser, et, sans savoir ce qu’il faisait, si c’était folie, désespoir ou acte de courage, il prit la Fiole dans sa main gauche et tira son épée de sa droite. Dard jaillit du fourreau avec un éclair,[…] Frodon, Hobbit du Comté, marcha résolument à la rencontre des yeux.»— Le Seigneur des Anneaux — Livre IV — Chapitre 9.",
         answers:[
             { text: "Frodon et Sam s’enfuirent et s’échappèrent", correct: false},
             { text: "Frodon et Sam s’enfuirent mais se retrouvèrent coincés dans une de ses toiles", correct: false},
@@ -2134,9 +2134,9 @@ const questions = [
         ]
     },
     {
-        question: "Comment Sam fait-il pour sauver Frodon dans la tour de Cirith Ungol ?",
+        question: "Comment Sam fait-il pour sauver Frodon dans la tour de Cirith Ungol?",
         difficulty: 2,
-        trueAnswer: "Sam utilise l’Anneau pour suivre discrètement les Orques. Il attendit que les lieux soient plus calmes pour y pénétrer et se rendit compte que les orques s’étaient entretués pour les effets personnels de Frodon (notamment sa côte de mithril). Sam, toujours habillé avec l’une des capes elfiques de la Lórien et muni de Dard, se donna du courage pour progresser dans cette forteresse en brandissant la lumière d'Eärendil et en répétant le mot elfique « Elbereth », ce qui conduit les Orques à le prendre pour un guerrier Elfe et s’enfuirent ou moururent d’effrois devant lui.",
+        trueAnswer: "Sam utilise l’Anneau pour suivre discrètement les Orques. Il attendit que les lieux soient plus calmes pour y pénétrer et se rendit compte que les orques s’étaient entretués pour les effets personnels de Frodon (notamment sa côte de mithril). Sam, toujours habillé avec l’une des capes elfiques de la Lórien et muni de Dard, se donna du courage pour progresser dans cette forteresse en brandissant la lumière d'Eärendil et en répétant le mot elfique «Elbereth», ce qui conduit les Orques à le prendre pour un guerrier Elfe et s’enfuirent ou moururent d’effrois devant lui.",
         answers:[
             { text: "Il se sert de l’Anneau Unique, pris sur le corps de Frodon qu’il croyait mort", correct: false},
             { text: "La quasi totalité des Orques de la tour s’était déjà entretuée", correct: false},
