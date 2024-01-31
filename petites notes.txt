@@ -6,7 +6,7 @@ pixel à poser comme r/place
 * connexion / inscription
 
 
-fait en : Java, JavaScript, SQL
+fait en : HTML, CSS, JavaScript, SQL
 
 créer un petit site vitrine pour présenter l'application
 
