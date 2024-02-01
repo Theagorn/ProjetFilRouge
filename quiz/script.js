@@ -26,7 +26,7 @@ function startQuiz(){
         titreQuiz.textContent = "Normal - Univers étendu";
     } else if(selectedDifficulty == 3){
         totalQuestions = 30;
-        titreQuiz.textContent = "Normal - Univers étendu (avec chronomètre)";
+        titreQuiz.textContent = "Difficile - Univers étendu (avec chronomètre)";
     } else{
         totalQuestions = 10;
         if(selectedDifficulty == 1.1){

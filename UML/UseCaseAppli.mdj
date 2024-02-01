@@ -3176,7 +3176,7 @@
 											"top": 427.5,
 											"width": 96,
 											"height": 13,
-											"text": "Créer des quizz"
+											"text": "Créer des quiz"
 										},
 										{
 											"_type": "LabelView",
@@ -3212,7 +3212,7 @@
 									"font": "Arial;13;0",
 									"left": 766,
 									"top": 420.5,
-									"width": 106.08447265625,
+									"width": 106,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJBjnQdfpK3LU="
@@ -3386,7 +3386,7 @@
 											"top": 475.5,
 											"width": 112,
 											"height": 13,
-											"text": "Modifier des quizz"
+											"text": "Modifier des quiz"
 										},
 										{
 											"_type": "LabelView",
@@ -3422,7 +3422,7 @@
 									"font": "Arial;13;0",
 									"left": 761.5,
 									"top": 468.5,
-									"width": 122.6708984375,
+									"width": 122,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJBjnySfp5EVc="
@@ -3596,7 +3596,7 @@
 											"top": 523.5,
 											"width": 126,
 											"height": 13,
-											"text": "Supprimer des quizz"
+											"text": "Supprimer des quiz"
 										},
 										{
 											"_type": "LabelView",
@@ -3632,7 +3632,7 @@
 									"font": "Arial;13;0",
 									"left": 756.5,
 									"top": 516.5,
-									"width": 137.130859375,
+									"width": 136,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJBjoXCfqoh+o="
@@ -4016,7 +4016,7 @@
 											"top": 523.5,
 											"width": 106,
 											"height": 13,
-											"text": "Afficher les quizz"
+											"text": "Afficher les quiz"
 										},
 										{
 											"_type": "LabelView",
@@ -4052,7 +4052,7 @@
 									"font": "Arial;13;0",
 									"left": 440.5,
 									"top": 516.5,
-									"width": 116.9072265625,
+									"width": 116,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJBjr7hPsJPTI="
@@ -4222,7 +4222,7 @@
 											"top": 63,
 											"width": 583,
 											"height": 13,
-											"text": "LOTR Quizz"
+											"text": "LOTR Quiz"
 										},
 										{
 											"_type": "LabelView",
@@ -9534,7 +9534,7 @@
 											"top": 267.5,
 											"width": 151,
 											"height": 13,
-											"text": "Afficher historique quizz"
+											"text": "Afficher historique quiz"
 										},
 										{
 											"_type": "LabelView",
@@ -9570,7 +9570,7 @@
 									"font": "Arial;13;0",
 									"left": 417.5,
 									"top": 260.5,
-									"width": 161.6708984375,
+									"width": 161,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJC7a586qBoEA="
@@ -12862,7 +12862,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJBjNKCPcruzY="
 					},
-					"name": "Créer des quizz"
+					"name": "Créer des quiz"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -12870,7 +12870,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJBjNKCPcruzY="
 					},
-					"name": "Modifier des quizz"
+					"name": "Modifier des quiz"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -12878,7 +12878,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJBjNKCPcruzY="
 					},
-					"name": "Supprimer des quizz"
+					"name": "Supprimer des quiz"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -12894,7 +12894,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJBjNKCPcruzY="
 					},
-					"name": "Afficher les quizz"
+					"name": "Afficher les quiz"
 				},
 				{
 					"_type": "UMLUseCaseSubject",
@@ -12902,7 +12902,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJBjNKCPcruzY="
 					},
-					"name": "LOTR Quizz"
+					"name": "LOTR Quiz"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -12918,7 +12918,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJBjNKCPcruzY="
 					},
-					"name": "Afficher historique quizz"
+					"name": "Afficher historique quiz"
 				},
 				{
 					"_type": "UMLUseCase",
