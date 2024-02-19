@@ -5,6 +5,7 @@ const nextButton = document.getElementById("next-btn");
 const answerText = document.getElementById("answer-text");
 const titreQuiz = document.getElementById("quiz-title");
 
+
 // Initialisation de variables
 let currentQuestionIndex = 0; // Indice de la question actuelle
 let score = 0; // Score actuel de l'utilisateur
