@@ -5,13 +5,13 @@ const nextButton = document.getElementById("next-btn");
 const answerText = document.getElementById("answer-text");
 const titreQuiz = document.getElementById("quiz-title");
 
-
 // Initialisation de variables
 let currentQuestionIndex = 0; // Indice de la question actuelle
 let score = 0; // Score actuel de l'utilisateur
 let totalQuestions = 0; // Nombre total de questions à faire selon la difficulté
 let questionsActives = []; // Déclaration d'un tableau vide pour les questions qui seront utilisées par l'utilisateur
 let selectedDifficulty = Number(localStorage.getItem("selectedDifficulty")); // Récupération de la difficulté sélectionnée depuis le stockage local
+
 
 // Fonction pour démarrer le quiz
 function startQuiz(){
