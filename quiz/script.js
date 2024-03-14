@@ -12,7 +12,6 @@ let totalQuestions = 0; // Nombre total de questions à faire selon la difficult
 let questionsActives = []; // Déclaration d'un tableau vide pour les questions qui seront utilisées par l'utilisateur
 let selectedDifficulty = Number(localStorage.getItem("selectedDifficulty")); // Récupération de la difficulté sélectionnée depuis le stockage local
 
-
 // Fonction pour démarrer le quiz
 function startQuiz(){
     // Réinitialisation des variables
